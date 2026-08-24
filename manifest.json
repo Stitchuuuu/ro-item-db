@@ -1,0 +1,70 @@
+{
+  "builtAt": "2026-08-24T08:02:04.796Z",
+  "rathena": {
+    "sha": "7f080871c8b3bbe7a79027194633201c63422ee1",
+    "ref": "master",
+    "fetchedAt": "2026-07-06T21:44:29.747Z"
+  },
+  "bundles": {
+    "rathena-pre-re": {
+      "description": "Stock rAthena pre-renewal, plus the recipes and quests the script parsers drop as orphans. No server-specific content.",
+      "layers": [
+        "rathena-classic"
+      ],
+      "sources": [
+        "rathena-classic/headgear-quests.json",
+        "rathena-classic/lvl4-weapon-quest.json",
+        "rathena-classic/rms-fixes.json"
+      ],
+      "path": "bundles/rathena-pre-re.json.gz",
+      "bytes": 4607811,
+      "gzBytes": 326892,
+      "counts": {
+        "items": 6169,
+        "itemsWithBonuses": 1717,
+        "itemsWithSkillGrants": 87,
+        "itemsWithAutoSpells": 189,
+        "produceRecipes": 296,
+        "arrowRecipes": 219,
+        "skillsWithItemCost": 68,
+        "questsWithItemRefs": 387,
+        "refineEntries": 14,
+        "mobDrops": 5019,
+        "shops": 184,
+        "shopSales": 1379,
+        "warps": 2978
+      }
+    },
+    "cyro": {
+      "description": "rathena-pre-re plus cyro's own NPCs (Hat Maker).",
+      "layers": [
+        "rathena-classic",
+        "cyro"
+      ],
+      "sources": [
+        "rathena-classic/headgear-quests.json",
+        "rathena-classic/lvl4-weapon-quest.json",
+        "rathena-classic/rms-fixes.json",
+        "cyro/hatmaker.json"
+      ],
+      "path": "bundles/cyro.json.gz",
+      "bytes": 4742360,
+      "gzBytes": 336031,
+      "counts": {
+        "items": 6169,
+        "itemsWithBonuses": 1717,
+        "itemsWithSkillGrants": 87,
+        "itemsWithAutoSpells": 189,
+        "produceRecipes": 517,
+        "arrowRecipes": 219,
+        "skillsWithItemCost": 68,
+        "questsWithItemRefs": 387,
+        "refineEntries": 14,
+        "mobDrops": 5019,
+        "shops": 184,
+        "shopSales": 1379,
+        "warps": 2978
+      }
+    }
+  }
+}

@@ -1,0 +1,6410 @@
+{
+  "_comment": "Cyro-only: the custom Hat Maker NPC in izlude (125,118). Hand-editable — one entry per craftable headgear.",
+  "items": [],
+  "quests": [],
+  "produces": [
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5086,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 5024,
+          "qty": 1
+        },
+        {
+          "id": 539,
+          "qty": 30
+        },
+        {
+          "id": 660,
+          "qty": 3
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Alarm Mask"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5137,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 5141,
+          "qty": 5
+        },
+        {
+          "id": 7047,
+          "qty": 100
+        },
+        {
+          "id": 661,
+          "qty": 1
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Alice Doll"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5074,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 2286,
+          "qty": 1
+        },
+        {
+          "id": 2254,
+          "qty": 1
+        }
+      ],
+      "zeny": 20000,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Angel Wing Ears"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5132,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 5035,
+          "qty": 1
+        },
+        {
+          "id": 5074,
+          "qty": 1
+        },
+        {
+          "id": 714,
+          "qty": 1
+        },
+        {
+          "id": 999,
+          "qty": 5
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Angeling Hat"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5153,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 10011,
+          "qty": 1
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Angeling Hairpin"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 2284,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 923,
+          "qty": 20
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Antlers"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5270,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 7198,
+          "qty": 200
+        },
+        {
+          "id": 7097,
+          "qty": 40
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Autumn Leaves"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5174,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 7445,
+          "qty": 7
+        },
+        {
+          "id": 7446,
+          "qty": 7
+        },
+        {
+          "id": 7447,
+          "qty": 7
+        },
+        {
+          "id": 7448,
+          "qty": 7
+        },
+        {
+          "id": 945,
+          "qty": 300
+        },
+        {
+          "id": 975,
+          "qty": 1
+        },
+        {
+          "id": 733,
+          "qty": 5
+        },
+        {
+          "id": 7166,
+          "qty": 50
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Ayam"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5277,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 5192,
+          "qty": 1
+        },
+        {
+          "id": 508,
+          "qty": 200
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Yellow Bandana"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 2237,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 1020,
+          "qty": 100
+        },
+        {
+          "id": 983,
+          "qty": 1
+        },
+        {
+          "id": 2241,
+          "qty": 1
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Bandit Beard"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5147,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 2226,
+          "qty": 1
+        },
+        {
+          "id": 978,
+          "qty": 1
+        },
+        {
+          "id": 1057,
+          "qty": 100
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Baseball Cap"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5057,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 2213,
+          "qty": 1
+        },
+        {
+          "id": 983,
+          "qty": 1
+        },
+        {
+          "id": 914,
+          "qty": 200
+        }
+      ],
+      "zeny": 10000,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Black Cat Ears"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5076,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 2226,
+          "qty": 1
+        },
+        {
+          "id": 7038,
+          "qty": 500
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Beanie"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5236,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 2226,
+          "qty": 1
+        },
+        {
+          "id": 7038,
+          "qty": 500
+        },
+        {
+          "id": 978,
+          "qty": 1
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Blue Beanie"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5235,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 2226,
+          "qty": 1
+        },
+        {
+          "id": 7038,
+          "qty": 500
+        },
+        {
+          "id": 982,
+          "qty": 1
+        },
+        {
+          "id": 983,
+          "qty": 1
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Brown Beanie"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5237,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 2226,
+          "qty": 1
+        },
+        {
+          "id": 7038,
+          "qty": 500
+        },
+        {
+          "id": 975,
+          "qty": 1
+        },
+        {
+          "id": 982,
+          "qty": 1
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Pink Beanie"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5382,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 969,
+          "qty": 8
+        },
+        {
+          "id": 10016,
+          "qty": 2
+        },
+        {
+          "id": 5083,
+          "qty": 1
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Bell Ribbon"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5065,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 624,
+          "qty": 1
+        },
+        {
+          "id": 959,
+          "qty": 300
+        },
+        {
+          "id": 544,
+          "qty": 50
+        },
+        {
+          "id": 1023,
+          "qty": 1
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Blue Fish"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5052,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 2211,
+          "qty": 1
+        },
+        {
+          "id": 978,
+          "qty": 1
+        },
+        {
+          "id": 7003,
+          "qty": 300
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Blue Hairband"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 2296,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 2243,
+          "qty": 1
+        },
+        {
+          "id": 999,
+          "qty": 100
+        }
+      ],
+      "zeny": 50000,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Binoculars"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5129,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 604,
+          "qty": 1
+        },
+        {
+          "id": 916,
+          "qty": 1
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Bird Nest"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5102,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 7263,
+          "qty": 2
+        },
+        {
+          "id": 2276,
+          "qty": 1
+        },
+        {
+          "id": 2239,
+          "qty": 1
+        },
+        {
+          "id": 568,
+          "qty": 150
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Blank Eyes"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5040,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 7047,
+          "qty": 100
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Blush"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5109,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 10015,
+          "qty": 1
+        },
+        {
+          "id": 10007,
+          "qty": 1
+        },
+        {
+          "id": 5023,
+          "qty": 1
+        },
+        {
+          "id": 975,
+          "qty": 1
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Red Bonnet"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5016,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 1030,
+          "qty": 10
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Boy's Cap"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5110,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 526,
+          "qty": 2
+        },
+        {
+          "id": 7270,
+          "qty": 1
+        },
+        {
+          "id": 941,
+          "qty": 1
+        },
+        {
+          "id": 10004,
+          "qty": 1
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Baby Pacifier"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5191,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 2208,
+          "qty": 1
+        },
+        {
+          "id": 983,
+          "qty": 1
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Black Ribbon"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5169,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 706,
+          "qty": 1
+        },
+        {
+          "id": 1019,
+          "qty": 500
+        },
+        {
+          "id": 7200,
+          "qty": 10
+        },
+        {
+          "id": 1049,
+          "qty": 20
+        },
+        {
+          "id": 7165,
+          "qty": 500
+        },
+        {
+          "id": 1054,
+          "qty": 2
+        },
+        {
+          "id": 1024,
+          "qty": 100
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Bride Mask"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5034,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 2232,
+          "qty": 1
+        },
+        {
+          "id": 746,
+          "qty": 20
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Bulb Band"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 2214,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 949,
+          "qty": 100
+        },
+        {
+          "id": 706,
+          "qty": 1
+        },
+        {
+          "id": 722,
+          "qty": 1
+        },
+        {
+          "id": 2213,
+          "qty": 1
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Bunny Band"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5105,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 2288,
+          "qty": 1
+        },
+        {
+          "id": 1095,
+          "qty": 3000
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "2nd Anniversary Hat"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5175,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 7111,
+          "qty": 100
+        },
+        {
+          "id": 938,
+          "qty": 99
+        },
+        {
+          "id": 983,
+          "qty": 1
+        }
+      ],
+      "zeny": 100000,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Censor Bar"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5080,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 10006,
+          "qty": 1
+        },
+        {
+          "id": 714,
+          "qty": 1
+        },
+        {
+          "id": 969,
+          "qty": 3
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Crown of Ancient Queen"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5024,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 529,
+          "qty": 10
+        },
+        {
+          "id": 530,
+          "qty": 5
+        },
+        {
+          "id": 539,
+          "qty": 20
+        },
+        {
+          "id": 999,
+          "qty": 10
+        },
+        {
+          "id": 538,
+          "qty": 15
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Cake Hat"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5028,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 2279,
+          "qty": 1
+        },
+        {
+          "id": 7035,
+          "qty": 50
+        },
+        {
+          "id": 526,
+          "qty": 100
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Candle"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5200,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 5016,
+          "qty": 1
+        },
+        {
+          "id": 981,
+          "qty": 1
+        },
+        {
+          "id": 7317,
+          "qty": 20
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Coppola"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5184,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 5114,
+          "qty": 5
+        },
+        {
+          "id": 995,
+          "qty": 50
+        },
+        {
+          "id": 983,
+          "qty": 1
+        },
+        {
+          "id": 720,
+          "qty": 50
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Captain's Hat"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5359,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 2284,
+          "qty": 1
+        },
+        {
+          "id": 5019,
+          "qty": 1
+        },
+        {
+          "id": 975,
+          "qty": 1
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Ship Captain Hat"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5214,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 976,
+          "qty": 1
+        },
+        {
+          "id": 1060,
+          "qty": 300
+        },
+        {
+          "id": 1022,
+          "qty": 100
+        },
+        {
+          "id": 5008,
+          "qty": 5
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Moonlight Flower Hat"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5026,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 1036,
+          "qty": 450
+        },
+        {
+          "id": 949,
+          "qty": 330
+        },
+        {
+          "id": 539,
+          "qty": 120
+        },
+        {
+          "id": 982,
+          "qty": 1
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Chef Hat"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5142,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 5017,
+          "qty": 1
+        },
+        {
+          "id": 2228,
+          "qty": 1
+        },
+        {
+          "id": 5014,
+          "qty": 1
+        },
+        {
+          "id": 7209,
+          "qty": 100
+        },
+        {
+          "id": 7123,
+          "qty": 100
+        },
+        {
+          "id": 1036,
+          "qty": 100
+        },
+        {
+          "id": 979,
+          "qty": 1
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Crescent Helm"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5283,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 949,
+          "qty": 200
+        },
+        {
+          "id": 916,
+          "qty": 100
+        },
+        {
+          "id": 7063,
+          "qty": 20
+        },
+        {
+          "id": 925,
+          "qty": 1
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Chick Hat"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5260,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 4293,
+          "qty": 1
+        },
+        {
+          "id": 538,
+          "qty": 100
+        },
+        {
+          "id": 530,
+          "qty": 100
+        },
+        {
+          "id": 529,
+          "qty": 50
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Cookie Hat"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5075,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 2248,
+          "qty": 1
+        },
+        {
+          "id": 7030,
+          "qty": 108
+        },
+        {
+          "id": 7194,
+          "qty": 108
+        },
+        {
+          "id": 7120,
+          "qty": 4
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Cowboy Hat"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5048,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 5041,
+          "qty": 1
+        },
+        {
+          "id": 999,
+          "qty": 10
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Cresent Hairpin"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5036,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 2608,
+          "qty": 1
+        },
+        {
+          "id": 7069,
+          "qty": 500
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Cross Hat"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5135,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 2295,
+          "qty": 1
+        },
+        {
+          "id": 969,
+          "qty": 1
+        },
+        {
+          "id": 975,
+          "qty": 1
+        },
+        {
+          "id": 999,
+          "qty": 5
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Cyclop's Eye"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5181,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 7511,
+          "qty": 100
+        },
+        {
+          "id": 7340,
+          "qty": 200
+        },
+        {
+          "id": 7023,
+          "qty": 10
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Helm of Darkness"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5108,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 7301,
+          "qty": 1887
+        },
+        {
+          "id": 5114,
+          "qty": 1
+        },
+        {
+          "id": 611,
+          "qty": 10
+        }
+      ],
+      "zeny": 5000,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Renown Detective's Cap"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5254,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 5132,
+          "qty": 1
+        },
+        {
+          "id": 5044,
+          "qty": 1
+        },
+        {
+          "id": 2255,
+          "qty": 1
+        },
+        {
+          "id": 7023,
+          "qty": 5
+        },
+        {
+          "id": 983,
+          "qty": 1
+        },
+        {
+          "id": 7539,
+          "qty": 1000
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Deviling Hat"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5038,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 1038,
+          "qty": 600
+        },
+        {
+          "id": 7048,
+          "qty": 40
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Deviruchi Hat"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5229,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 1038,
+          "qty": 600
+        },
+        {
+          "id": 7048,
+          "qty": 40
+        },
+        {
+          "id": 982,
+          "qty": 1
+        },
+        {
+          "id": 983,
+          "qty": 1
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Brown Deviruchi Hat"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5227,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 1038,
+          "qty": 600
+        },
+        {
+          "id": 7048,
+          "qty": 40
+        },
+        {
+          "id": 975,
+          "qty": 1
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Red Deviruchi Hat"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5228,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 1038,
+          "qty": 600
+        },
+        {
+          "id": 7048,
+          "qty": 40
+        },
+        {
+          "id": 982,
+          "qty": 1
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Gray Deviruchi Hat"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5186,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 1032,
+          "qty": 100
+        },
+        {
+          "id": 7100,
+          "qty": 100
+        },
+        {
+          "id": 905,
+          "qty": 250
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Geographer Band"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5091,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 10016,
+          "qty": 1
+        },
+        {
+          "id": 714,
+          "qty": 1
+        },
+        {
+          "id": 969,
+          "qty": 3
+        }
+      ],
+      "zeny": 20000,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Decorative Golden Bell"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5082,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 921,
+          "qty": 300
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Decorative Mushroom"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 2273,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 2275,
+          "qty": 1
+        },
+        {
+          "id": 998,
+          "qty": 50
+        },
+        {
+          "id": 733,
+          "qty": 1
+        }
+      ],
+      "zeny": 3500,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Doctor Band"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5258,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 2261,
+          "qty": 1
+        },
+        {
+          "id": 914,
+          "qty": 200
+        },
+        {
+          "id": 975,
+          "qty": 1
+        },
+        {
+          "id": 976,
+          "qty": 1
+        },
+        {
+          "id": 978,
+          "qty": 1
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Afro Wig"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5198,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 5058,
+          "qty": 1
+        },
+        {
+          "id": 2214,
+          "qty": 1
+        },
+        {
+          "id": 949,
+          "qty": 500
+        },
+        {
+          "id": 914,
+          "qty": 200
+        },
+        {
+          "id": 622,
+          "qty": 50
+        },
+        {
+          "id": 1974,
+          "qty": 1
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Drooping Bunny"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5058,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 2232,
+          "qty": 1
+        },
+        {
+          "id": 983,
+          "qty": 1
+        },
+        {
+          "id": 7206,
+          "qty": 300
+        },
+        {
+          "id": 7030,
+          "qty": 1
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Drooping Cat"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5233,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 2232,
+          "qty": 1
+        },
+        {
+          "id": 983,
+          "qty": 1
+        },
+        {
+          "id": 7206,
+          "qty": 300
+        },
+        {
+          "id": 7030,
+          "qty": 1
+        },
+        {
+          "id": 978,
+          "qty": 1
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Blue Drooping Cat"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5231,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 2232,
+          "qty": 1
+        },
+        {
+          "id": 983,
+          "qty": 1
+        },
+        {
+          "id": 7206,
+          "qty": 300
+        },
+        {
+          "id": 7030,
+          "qty": 1
+        },
+        {
+          "id": 982,
+          "qty": 1
+        },
+        {
+          "id": 983,
+          "qty": 1
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Brown Drooping Cat"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5232,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 2232,
+          "qty": 1
+        },
+        {
+          "id": 983,
+          "qty": 1
+        },
+        {
+          "id": 7206,
+          "qty": 300
+        },
+        {
+          "id": 7030,
+          "qty": 1
+        },
+        {
+          "id": 982,
+          "qty": 1
+        },
+        {
+          "id": 975,
+          "qty": 1
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Pink Drooping Cat"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5230,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 2232,
+          "qty": 1
+        },
+        {
+          "id": 983,
+          "qty": 1
+        },
+        {
+          "id": 7206,
+          "qty": 300
+        },
+        {
+          "id": 7030,
+          "qty": 1
+        },
+        {
+          "id": 982,
+          "qty": 1
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Gray Drooping Cat"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5234,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 2232,
+          "qty": 1
+        },
+        {
+          "id": 983,
+          "qty": 1
+        },
+        {
+          "id": 7206,
+          "qty": 300
+        },
+        {
+          "id": 7030,
+          "qty": 1
+        },
+        {
+          "id": 976,
+          "qty": 1
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Yellow Drooping Cat"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5253,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 1034,
+          "qty": 300
+        },
+        {
+          "id": 7445,
+          "qty": 30
+        },
+        {
+          "id": 5141,
+          "qty": 10
+        },
+        {
+          "id": 979,
+          "qty": 1
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Lif Doll Hat"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5252,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 5058,
+          "qty": 1
+        },
+        {
+          "id": 1022,
+          "qty": 250
+        },
+        {
+          "id": 7267,
+          "qty": 100
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Drooping Ninetail"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 2283,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 724,
+          "qty": 1
+        },
+        {
+          "id": 5001,
+          "qty": 1
+        },
+        {
+          "id": 949,
+          "qty": 200
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Ear Muffs"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5243,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 975,
+          "qty": 1
+        },
+        {
+          "id": 976,
+          "qty": 1
+        },
+        {
+          "id": 914,
+          "qty": 100
+        },
+        {
+          "id": 7441,
+          "qty": 150
+        },
+        {
+          "id": 7065,
+          "qty": 25
+        },
+        {
+          "id": 2283,
+          "qty": 1
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Shafka"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5259,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 978,
+          "qty": 1
+        },
+        {
+          "id": 7561,
+          "qty": 100
+        },
+        {
+          "id": 949,
+          "qty": 500
+        },
+        {
+          "id": 1026,
+          "qty": 200
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Elephant Hat"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5205,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 5185,
+          "qty": 1
+        },
+        {
+          "id": 610,
+          "qty": 100
+        },
+        {
+          "id": 706,
+          "qty": 25
+        },
+        {
+          "id": 7194,
+          "qty": 113
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Emperor's Laurel Crown"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5068,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 2255,
+          "qty": 1
+        },
+        {
+          "id": 2286,
+          "qty": 1
+        }
+      ],
+      "zeny": 20000,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Evil Wing Ears"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5304,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 7017,
+          "qty": 2
+        },
+        {
+          "id": 2510,
+          "qty": 1
+        },
+        {
+          "id": 983,
+          "qty": 1
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Cap Of Blindness"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5207,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 2282,
+          "qty": 5
+        },
+        {
+          "id": 2254,
+          "qty": 2
+        },
+        {
+          "id": 969,
+          "qty": 1
+        },
+        {
+          "id": 7063,
+          "qty": 15
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Angel Blessing"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5333,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 996,
+          "qty": 4
+        },
+        {
+          "id": 12028,
+          "qty": 1
+        },
+        {
+          "id": 12032,
+          "qty": 1
+        },
+        {
+          "id": 992,
+          "qty": 10
+        },
+        {
+          "id": 5011,
+          "qty": 1
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Radio Antenna"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5312,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 2261,
+          "qty": 1
+        },
+        {
+          "id": 983,
+          "qty": 1
+        },
+        {
+          "id": 2280,
+          "qty": 1
+        },
+        {
+          "id": 2627,
+          "qty": 1
+        },
+        {
+          "id": 969,
+          "qty": 2
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Ayothaya King's Hat"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5379,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 5061,
+          "qty": 2
+        },
+        {
+          "id": 978,
+          "qty": 1
+        },
+        {
+          "id": 2270,
+          "qty": 2
+        },
+        {
+          "id": 5083,
+          "qty": 1
+        },
+        {
+          "id": 1059,
+          "qty": 150
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Tam"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5416,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 746,
+          "qty": 20
+        },
+        {
+          "id": 7097,
+          "qty": 12
+        },
+        {
+          "id": 587,
+          "qty": 20
+        },
+        {
+          "id": 2717,
+          "qty": 1
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Beer Hat"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5401,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 5288,
+          "qty": 1
+        },
+        {
+          "id": 983,
+          "qty": 1
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Black Frame Glasses"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5427,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 5288,
+          "qty": 1
+        },
+        {
+          "id": 12078,
+          "qty": 1
+        },
+        {
+          "id": 7521,
+          "qty": 1
+        },
+        {
+          "id": 12183,
+          "qty": 1
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Black Tea Kochakaden Hat"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5404,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 5187,
+          "qty": 1
+        },
+        {
+          "id": 1034,
+          "qty": 70
+        },
+        {
+          "id": 7441,
+          "qty": 10
+        },
+        {
+          "id": 978,
+          "qty": 10
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Blue Ribbon"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5800,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 5040,
+          "qty": 1
+        },
+        {
+          "id": 7170,
+          "qty": 1
+        },
+        {
+          "id": 2339,
+          "qty": 1
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Blush of Groom"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5429,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 5100,
+          "qty": 1
+        },
+        {
+          "id": 5573,
+          "qty": 30
+        },
+        {
+          "id": 7268,
+          "qty": 1
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Bogy Cap"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5338,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 5100,
+          "qty": 1
+        },
+        {
+          "id": 7112,
+          "qty": 25
+        },
+        {
+          "id": 561,
+          "qty": 1
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Bf Recruiter Hat"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5300,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 7106,
+          "qty": 2
+        },
+        {
+          "id": 2246,
+          "qty": 1
+        },
+        {
+          "id": 7263,
+          "qty": 1
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Bullock Helm"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5378,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 2214,
+          "qty": 1
+        },
+        {
+          "id": 5045,
+          "qty": 1
+        },
+        {
+          "id": 975,
+          "qty": 1
+        },
+        {
+          "id": 740,
+          "qty": 100
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Bunny Top Hat"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5414,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 7300,
+          "qty": 9
+        },
+        {
+          "id": 1068,
+          "qty": 4
+        },
+        {
+          "id": 7098,
+          "qty": 2
+        }
+      ],
+      "zeny": 100000000,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Camp Fire Hat"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5307,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 2275,
+          "qty": 5
+        },
+        {
+          "id": 514,
+          "qty": 2
+        },
+        {
+          "id": 979,
+          "qty": 1
+        },
+        {
+          "id": 634,
+          "qty": 1
+        },
+        {
+          "id": 619,
+          "qty": 20
+        },
+        {
+          "id": 1027,
+          "qty": 20
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Carmen Miranda's Hat"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5431,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 5283,
+          "qty": 1
+        },
+        {
+          "id": 916,
+          "qty": 50
+        },
+        {
+          "id": 2717,
+          "qty": 1
+        }
+      ],
+      "zeny": 50000000,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Chicken Hat"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5341,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 5137,
+          "qty": 1
+        },
+        {
+          "id": 2276,
+          "qty": 1
+        },
+        {
+          "id": 1060,
+          "qty": 25
+        }
+      ],
+      "zeny": 80000000,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Glaris Doll Hat"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5131,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 5128,
+          "qty": 1
+        },
+        {
+          "id": 969,
+          "qty": 10
+        },
+        {
+          "id": 978,
+          "qty": 1
+        },
+        {
+          "id": 985,
+          "qty": 27
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Close Helmet"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5417,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 4112,
+          "qty": 1
+        },
+        {
+          "id": 5263,
+          "qty": 1
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Crown Parrots"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5373,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 2255,
+          "qty": 1
+        },
+        {
+          "id": 7566,
+          "qty": 3
+        },
+        {
+          "id": 7511,
+          "qty": 60
+        },
+        {
+          "id": 5104,
+          "qty": 1
+        },
+        {
+          "id": 7799,
+          "qty": 4
+        },
+        {
+          "id": 7023,
+          "qty": 20
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Dark Randgris Helm"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5369,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 5191,
+          "qty": 6
+        },
+        {
+          "id": 7205,
+          "qty": 25
+        },
+        {
+          "id": 558,
+          "qty": 3
+        },
+        {
+          "id": 2210,
+          "qty": 1
+        },
+        {
+          "id": 7441,
+          "qty": 5
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Dark Wing"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5340,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 5137,
+          "qty": 1
+        },
+        {
+          "id": 5040,
+          "qty": 1
+        },
+        {
+          "id": 1034,
+          "qty": 25
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Defolty Doll Hat"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5313,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 5124,
+          "qty": 1
+        },
+        {
+          "id": 2249,
+          "qty": 1
+        },
+        {
+          "id": 5007,
+          "qty": 1
+        },
+        {
+          "id": 523,
+          "qty": 200
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Diadem"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5258,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 2261,
+          "qty": 1
+        },
+        {
+          "id": 914,
+          "qty": 200
+        },
+        {
+          "id": 975,
+          "qty": 1
+        },
+        {
+          "id": 976,
+          "qty": 1
+        },
+        {
+          "id": 978,
+          "qty": 1
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Afro Wig"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5292,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 7266,
+          "qty": 2
+        },
+        {
+          "id": 1035,
+          "qty": 4
+        },
+        {
+          "id": 10001,
+          "qty": 1
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Dragon Skull"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5396,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 5430,
+          "qty": 1
+        },
+        {
+          "id": 5285,
+          "qty": 1
+        },
+        {
+          "id": 7262,
+          "qty": 20
+        },
+        {
+          "id": 5396,
+          "qty": 1
+        },
+        {
+          "id": 622,
+          "qty": 50
+        },
+        {
+          "id": 1974,
+          "qty": 1
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Jasper Crest"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5146,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 978,
+          "qty": 1
+        },
+        {
+          "id": 949,
+          "qty": 500
+        },
+        {
+          "id": 1019,
+          "qty": 1
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Elephant Hat"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5282,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 5200,
+          "qty": 1
+        },
+        {
+          "id": 982,
+          "qty": 1
+        },
+        {
+          "id": 978,
+          "qty": 2
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Europe Baseball Cap"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5247,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 1039,
+          "qty": 60
+        },
+        {
+          "id": 923,
+          "qty": 25
+        },
+        {
+          "id": 2255,
+          "qty": 1
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Satanic Helm"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5364,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 5012,
+          "qty": 1
+        },
+        {
+          "id": 975,
+          "qty": 1
+        },
+        {
+          "id": 982,
+          "qty": 1
+        },
+        {
+          "id": 983,
+          "qty": 1
+        },
+        {
+          "id": 5048,
+          "qty": 1
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Evil Snake Lord Hat"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5210,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 2254,
+          "qty": 10
+        },
+        {
+          "id": 7063,
+          "qty": 50
+        },
+        {
+          "id": 7168,
+          "qty": 200
+        },
+        {
+          "id": 7038,
+          "qty": 200
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Flapping Angel Wing"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5047,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 2271,
+          "qty": 1
+        },
+        {
+          "id": 975,
+          "qty": 1
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Fashionable Glasses"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5170,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 5172,
+          "qty": 1
+        },
+        {
+          "id": 7063,
+          "qty": 100
+        },
+        {
+          "id": 982,
+          "qty": 1
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Feather Beret"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5380,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 5065,
+          "qty": 2
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Fish Head Hat"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5303,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 712,
+          "qty": 100
+        },
+        {
+          "id": 710,
+          "qty": 5
+        },
+        {
+          "id": 629,
+          "qty": 5
+        },
+        {
+          "id": 10009,
+          "qty": 1
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Flower Crown"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5302,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 7553,
+          "qty": 2
+        },
+        {
+          "id": 982,
+          "qty": 1
+        },
+        {
+          "id": 7771,
+          "qty": 1
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Flower Lily"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5056,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 5079,
+          "qty": 1
+        },
+        {
+          "id": 578,
+          "qty": 100
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Fruit of Love"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5390,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 2236,
+          "qty": 2
+        },
+        {
+          "id": 978,
+          "qty": 1
+        },
+        {
+          "id": 1034,
+          "qty": 50
+        },
+        {
+          "id": 2294,
+          "qty": 2
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Frozen Twin Pompom"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5144,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 2214,
+          "qty": 1
+        },
+        {
+          "id": 2220,
+          "qty": 1
+        },
+        {
+          "id": 7567,
+          "qty": 25
+        },
+        {
+          "id": 1001,
+          "qty": 200
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Gambler Hat"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5063,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 970,
+          "qty": 1
+        },
+        {
+          "id": 930,
+          "qty": 500
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Giant Band Aid"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5193,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 2208,
+          "qty": 1
+        },
+        {
+          "id": 979,
+          "qty": 1
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Green Ribbon"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5021,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 2232,
+          "qty": 1
+        },
+        {
+          "id": 969,
+          "qty": 1
+        },
+        {
+          "id": 999,
+          "qty": 20
+        },
+        {
+          "id": 949,
+          "qty": 80
+        },
+        {
+          "id": 938,
+          "qty": 800
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Grief for Greed"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5179,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 2234,
+          "qty": 1
+        },
+        {
+          "id": 969,
+          "qty": 3
+        },
+        {
+          "id": 2610,
+          "qty": 4
+        },
+        {
+          "id": 13106,
+          "qty": 2
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Golden Tiara"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5176,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 706,
+          "qty": 1
+        },
+        {
+          "id": 1019,
+          "qty": 500
+        },
+        {
+          "id": 7200,
+          "qty": 10
+        },
+        {
+          "id": 1049,
+          "qty": 500
+        },
+        {
+          "id": 1053,
+          "qty": 2
+        },
+        {
+          "id": 980,
+          "qty": 1
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Hahoe Mask"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5001,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 999,
+          "qty": 40
+        },
+        {
+          "id": 984,
+          "qty": 1
+        },
+        {
+          "id": 970,
+          "qty": 1
+        },
+        {
+          "id": 1003,
+          "qty": 1
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Headset"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5031,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 7013,
+          "qty": 1200
+        },
+        {
+          "id": 7539,
+          "qty": 50
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Mine Hat"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5025,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 2228,
+          "qty": 1
+        },
+        {
+          "id": 2254,
+          "qty": 1
+        },
+        {
+          "id": 7036,
+          "qty": 5
+        },
+        {
+          "id": 7539,
+          "qty": 250
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Helm of Angel"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5061,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 2269,
+          "qty": 1
+        },
+        {
+          "id": 999,
+          "qty": 10
+        },
+        {
+          "id": 7539,
+          "qty": 100
+        }
+      ],
+      "zeny": 20000,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Flower Hairpin"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5139,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 5085,
+          "qty": 1
+        },
+        {
+          "id": 710,
+          "qty": 5
+        },
+        {
+          "id": 7510,
+          "qty": 1
+        },
+        {
+          "id": 975,
+          "qty": 1
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Hibiscus"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5070,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 7216,
+          "qty": 300
+        },
+        {
+          "id": 7097,
+          "qty": 300
+        },
+        {
+          "id": 2211,
+          "qty": 1
+        },
+        {
+          "id": 982,
+          "qty": 1
+        },
+        {
+          "id": 7539,
+          "qty": 150
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Hot-blooded Headband"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5071,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 5010,
+          "qty": 1
+        },
+        {
+          "id": 5049,
+          "qty": 1
+        },
+        {
+          "id": 7101,
+          "qty": 10
+        }
+      ],
+      "zeny": 10000,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Indian Headband"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5173,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 7445,
+          "qty": 7
+        },
+        {
+          "id": 7446,
+          "qty": 7
+        },
+        {
+          "id": 7447,
+          "qty": 7
+        },
+        {
+          "id": 7478,
+          "qty": 7
+        },
+        {
+          "id": 945,
+          "qty": 300
+        },
+        {
+          "id": 983,
+          "qty": 1
+        },
+        {
+          "id": 733,
+          "qty": 5
+        },
+        {
+          "id": 2220,
+          "qty": 1
+        },
+        {
+          "id": 7539,
+          "qty": 200
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Magistrate Hat"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5321,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 2275,
+          "qty": 2
+        },
+        {
+          "id": 2211,
+          "qty": 2
+        },
+        {
+          "id": 7215,
+          "qty": 4
+        },
+        {
+          "id": 7217,
+          "qty": 20
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Bandana Merah Putih"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5374,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 6004,
+          "qty": 5
+        },
+        {
+          "id": 2256,
+          "qty": 1
+        },
+        {
+          "id": 923,
+          "qty": 25
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Gigantic Majestic Goat"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 2240,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 1040,
+          "qty": 2
+        },
+        {
+          "id": 982,
+          "qty": 2
+        },
+        {
+          "id": 949,
+          "qty": 4
+        },
+        {
+          "id": 7457,
+          "qty": 1
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Beard"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5405,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 7441,
+          "qty": 45
+        },
+        {
+          "id": 949,
+          "qty": 80
+        },
+        {
+          "id": 916,
+          "qty": 100
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Filir Hat"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5410,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 7188,
+          "qty": 40
+        },
+        {
+          "id": 7111,
+          "qty": 20
+        }
+      ],
+      "zeny": 50000000,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Brown Paperbag Hat"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5421,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 2286,
+          "qty": 1
+        },
+        {
+          "id": 7122,
+          "qty": 60
+        }
+      ],
+      "zeny": 100000000,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Ears Of Ifrit"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5424,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 980,
+          "qty": 1
+        },
+        {
+          "id": 620,
+          "qty": 1
+        },
+        {
+          "id": 605,
+          "qty": 50
+        },
+        {
+          "id": 985,
+          "qty": 200
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Fanta Orange Can Hat"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5425,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 981,
+          "qty": 1
+        },
+        {
+          "id": 533,
+          "qty": 1
+        },
+        {
+          "id": 605,
+          "qty": 50
+        },
+        {
+          "id": 985,
+          "qty": 200
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Fanta Grape Can Hat"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5276,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 2261,
+          "qty": 1
+        },
+        {
+          "id": 914,
+          "qty": 200
+        },
+        {
+          "id": 983,
+          "qty": 1
+        },
+        {
+          "id": 976,
+          "qty": 1
+        },
+        {
+          "id": 975,
+          "qty": 1
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Fantastic Wig"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5156,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 2265,
+          "qty": 10
+        },
+        {
+          "id": 982,
+          "qty": 1
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Father's Mask"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5154,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 2201,
+          "qty": 1
+        },
+        {
+          "id": 7020,
+          "qty": 5
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Father's Sunglasses"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5155,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 7024,
+          "qty": 10
+        },
+        {
+          "id": 7754,
+          "qty": 2
+        },
+        {
+          "id": 7562,
+          "qty": 4
+        },
+        {
+          "id": 7450,
+          "qty": 1
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Father's White Moustache"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5018,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 2247,
+          "qty": 1
+        },
+        {
+          "id": 916,
+          "qty": 300
+        }
+      ],
+      "zeny": 500,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Feather Bonnet"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5403,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 1023,
+          "qty": 1
+        },
+        {
+          "id": 544,
+          "qty": 5
+        },
+        {
+          "id": 2791,
+          "qty": 1
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Fish In Mouth"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5317,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 5114,
+          "qty": 1
+        },
+        {
+          "id": 2290,
+          "qty": 1
+        },
+        {
+          "id": 938,
+          "qty": 4
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Fisherman's Hat"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5269,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 5203,
+          "qty": 4
+        },
+        {
+          "id": 7063,
+          "qty": 60
+        },
+        {
+          "id": 2210,
+          "qty": 1
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Flapping Angel Wing"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5334,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 5132,
+          "qty": 1
+        },
+        {
+          "id": 1971,
+          "qty": 20
+        },
+        {
+          "id": 7093,
+          "qty": 4
+        },
+        {
+          "id": 2659,
+          "qty": 1
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Flapping Angeling"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5376,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 641,
+          "qty": 1
+        },
+        {
+          "id": 2210,
+          "qty": 1
+        },
+        {
+          "id": 7063,
+          "qty": 60
+        },
+        {
+          "id": 983,
+          "qty": 4
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Flying Evil Wing"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5400,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 1022,
+          "qty": 20
+        },
+        {
+          "id": 1234,
+          "qty": 2
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Fox Hat"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5339,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 5100,
+          "qty": 1
+        },
+        {
+          "id": 7112,
+          "qty": 25
+        },
+        {
+          "id": 1558,
+          "qty": 1
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Friend Recruiter Hat"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5361,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 7216,
+          "qty": 200
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Gangster Scarf"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5377,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 2268,
+          "qty": 1
+        },
+        {
+          "id": 1040,
+          "qty": 30
+        },
+        {
+          "id": 1629,
+          "qty": 1
+        }
+      ],
+      "zeny": 100000000,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Gentleman's Pipe"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5346,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 5100,
+          "qty": 1
+        },
+        {
+          "id": 7112,
+          "qty": 25
+        },
+        {
+          "id": 558,
+          "qty": 1
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Gf Recruiter Hat"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5433,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 5185,
+          "qty": 1
+        },
+        {
+          "id": 969,
+          "qty": 2
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Golden Laurel"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5262,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 2234,
+          "qty": 1
+        },
+        {
+          "id": 7799,
+          "qty": 1
+        },
+        {
+          "id": 7578,
+          "qty": 1
+        },
+        {
+          "id": 969,
+          "qty": 3
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Golden Tiara"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5336,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 5100,
+          "qty": 1
+        },
+        {
+          "id": 7112,
+          "qty": 25
+        },
+        {
+          "id": 714,
+          "qty": 1
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Guildsman Recruiter Hat"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5273,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 2261,
+          "qty": 1
+        },
+        {
+          "id": 914,
+          "qty": 200
+        },
+        {
+          "id": 982,
+          "qty": 1
+        },
+        {
+          "id": 975,
+          "qty": 1
+        },
+        {
+          "id": 979,
+          "qty": 1
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Happy Wig"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5319,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 5035,
+          "qty": 1
+        },
+        {
+          "id": 5074,
+          "qty": 1
+        },
+        {
+          "id": 978,
+          "qty": 1
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Hello Mother Hat"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5363,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 5114,
+          "qty": 1
+        },
+        {
+          "id": 2261,
+          "qty": 1
+        },
+        {
+          "id": 983,
+          "qty": 20
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Helm Of Abyss"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5314,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 7567,
+          "qty": 200
+        },
+        {
+          "id": 5102,
+          "qty": 1
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Hockey Mask"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5360,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 5057,
+          "qty": 1
+        },
+        {
+          "id": 2747,
+          "qty": 2
+        },
+        {
+          "id": 2258,
+          "qty": 1
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Hyuke's Black Cat Ears"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5383,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 5200,
+          "qty": 1
+        },
+        {
+          "id": 979,
+          "qty": 1
+        },
+        {
+          "id": 7445,
+          "qty": 50
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Hunter's Cap"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5423,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 736,
+          "qty": 300
+        },
+        {
+          "id": 5074,
+          "qty": 1
+        },
+        {
+          "id": 994,
+          "qty": 1
+        }
+      ],
+      "zeny": 5000000,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "I Love China"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5209,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 5147,
+          "qty": 1
+        },
+        {
+          "id": 976,
+          "qty": 1
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Love Dad Cap"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5396,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 5430,
+          "qty": 1
+        },
+        {
+          "id": 5285,
+          "qty": 1
+        },
+        {
+          "id": 7262,
+          "qty": 20
+        },
+        {
+          "id": 5396,
+          "qty": 1
+        },
+        {
+          "id": 622,
+          "qty": 50
+        },
+        {
+          "id": 1974,
+          "qty": 1
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Jasper Crest"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5371,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 5016,
+          "qty": 1
+        },
+        {
+          "id": 1004,
+          "qty": 35
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Judge Hat"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5426,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 5027,
+          "qty": 1
+        },
+        {
+          "id": 976,
+          "qty": 5
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Karada Meguricha Hat"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5322,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 10019,
+          "qty": 1
+        },
+        {
+          "id": 982,
+          "qty": 2
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Kerchief"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5291,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 7323,
+          "qty": 100
+        },
+        {
+          "id": 969,
+          "qty": 20
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Kettle Hat"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5372,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 5099,
+          "qty": 1
+        },
+        {
+          "id": 5230,
+          "qty": 1
+        },
+        {
+          "id": 2747,
+          "qty": 5
+        },
+        {
+          "id": 982,
+          "qty": 15
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Koneko Hat"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5311,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 5139,
+          "qty": 5
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Large Hisbiscus"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5418,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 5016,
+          "qty": 1
+        },
+        {
+          "id": 2261,
+          "qty": 1
+        },
+        {
+          "id": 968,
+          "qty": 1
+        },
+        {
+          "id": 975,
+          "qty": 5
+        },
+        {
+          "id": 1004,
+          "qty": 35
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Legionnaire Hat"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5422,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 1550,
+          "qty": 3
+        },
+        {
+          "id": 1006,
+          "qty": 20
+        }
+      ],
+      "zeny": 500000,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Linguistic Book Hat"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5324,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 5137,
+          "qty": 1
+        },
+        {
+          "id": 7063,
+          "qty": 20
+        },
+        {
+          "id": 1034,
+          "qty": 20
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Little Angel Doll"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5448,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 521,
+          "qty": 200
+        },
+        {
+          "id": 1019,
+          "qty": 300
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Soloplay Box1"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5449,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 521,
+          "qty": 200
+        },
+        {
+          "id": 1019,
+          "qty": 300
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Soloplay Box2"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5332,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 7019,
+          "qty": 10
+        },
+        {
+          "id": 7200,
+          "qty": 10
+        },
+        {
+          "id": 629,
+          "qty": 5
+        },
+        {
+          "id": 10009,
+          "qty": 1
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Loki Mask"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5392,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 721,
+          "qty": 5
+        },
+        {
+          "id": 7216,
+          "qty": 25
+        }
+      ],
+      "zeny": 100000,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Luoyang NewYear Hat"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5803,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 2215,
+          "qty": 3
+        },
+        {
+          "id": 2210,
+          "qty": 2
+        },
+        {
+          "id": 5061,
+          "qty": 1
+        },
+        {
+          "id": 10009,
+          "qty": 1
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Love Flower Hat"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5393,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 2285,
+          "qty": 5
+        },
+        {
+          "id": 994,
+          "qty": 10
+        },
+        {
+          "id": 7097,
+          "qty": 25
+        }
+      ],
+      "zeny": 777777,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Love Valentine's Hat"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5365,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 574,
+          "qty": 150
+        },
+        {
+          "id": 7031,
+          "qty": 150
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Magnolia Hat"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5143,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 5090,
+          "qty": 1
+        },
+        {
+          "id": 1020,
+          "qty": 300
+        },
+        {
+          "id": 975,
+          "qty": 1
+        },
+        {
+          "id": 982,
+          "qty": 1
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Kabuki Mask"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5020,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 2215,
+          "qty": 1
+        },
+        {
+          "id": 2210,
+          "qty": 1
+        },
+        {
+          "id": 7063,
+          "qty": 20
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Kafra Band"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5140,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 5085,
+          "qty": 1
+        },
+        {
+          "id": 2244,
+          "qty": 1
+        },
+        {
+          "id": 5191,
+          "qty": 1
+        },
+        {
+          "id": 7166,
+          "qty": 50
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Charming Ribbon"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5069,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 1022,
+          "qty": 99
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Kitsune Mask"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5185,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 5061,
+          "qty": 1
+        },
+        {
+          "id": 712,
+          "qty": 100
+        },
+        {
+          "id": 7194,
+          "qty": 150
+        },
+        {
+          "id": 7298,
+          "qty": 100
+        },
+        {
+          "id": 520,
+          "qty": 50
+        },
+        {
+          "id": 521,
+          "qty": 50
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Laurel Wreath"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5130,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 1048,
+          "qty": 100
+        },
+        {
+          "id": 7564,
+          "qty": 150
+        },
+        {
+          "id": 517,
+          "qty": 30
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Lion Mask"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5177,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 706,
+          "qty": 1
+        },
+        {
+          "id": 1019,
+          "qty": 500
+        },
+        {
+          "id": 7200,
+          "qty": 10
+        },
+        {
+          "id": 1049,
+          "qty": 500
+        },
+        {
+          "id": 1053,
+          "qty": 2
+        },
+        {
+          "id": 980,
+          "qty": 1
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Mythical Lion Mask"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5013,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 754,
+          "qty": 100
+        },
+        {
+          "id": 753,
+          "qty": 100
+        },
+        {
+          "id": 752,
+          "qty": 100
+        },
+        {
+          "id": 751,
+          "qty": 100
+        },
+        {
+          "id": 750,
+          "qty": 100
+        },
+        {
+          "id": 743,
+          "qty": 100
+        },
+        {
+          "id": 742,
+          "qty": 100
+        },
+        {
+          "id": 741,
+          "qty": 100
+        },
+        {
+          "id": 2613,
+          "qty": 100
+        },
+        {
+          "id": 5053,
+          "qty": 100
+        },
+        {
+          "id": 7020,
+          "qty": 100
+        },
+        {
+          "id": 7036,
+          "qty": 100
+        },
+        {
+          "id": 2268,
+          "qty": 100
+        },
+        {
+          "id": 734,
+          "qty": 100
+        },
+        {
+          "id": 923,
+          "qty": 100
+        },
+        {
+          "id": 968,
+          "qty": 100
+        },
+        {
+          "id": 7005,
+          "qty": 100
+        },
+        {
+          "id": 714,
+          "qty": 300
+        }
+      ],
+      "zeny": 50000000,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Lord Kaho's Horn"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5084,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 1026,
+          "qty": 1000
+        },
+        {
+          "id": 7065,
+          "qty": 100
+        },
+        {
+          "id": 945,
+          "qty": 100
+        },
+        {
+          "id": 7030,
+          "qty": 1
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Lazy Smokie"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5027,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 2252,
+          "qty": 1
+        },
+        {
+          "id": 1036,
+          "qty": 400
+        },
+        {
+          "id": 7001,
+          "qty": 50
+        },
+        {
+          "id": 4052,
+          "qty": 1
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Mage Hat"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5241,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 2252,
+          "qty": 1
+        },
+        {
+          "id": 1036,
+          "qty": 400
+        },
+        {
+          "id": 7001,
+          "qty": 50
+        },
+        {
+          "id": 4052,
+          "qty": 1
+        },
+        {
+          "id": 978,
+          "qty": 1
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Blue Mage Hat"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5240,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 2252,
+          "qty": 1
+        },
+        {
+          "id": 1036,
+          "qty": 400
+        },
+        {
+          "id": 7001,
+          "qty": 50
+        },
+        {
+          "id": 4052,
+          "qty": 1
+        },
+        {
+          "id": 982,
+          "qty": 1
+        },
+        {
+          "id": 983,
+          "qty": 1
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Brown Mage Hat"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5238,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 2252,
+          "qty": 1
+        },
+        {
+          "id": 1036,
+          "qty": 400
+        },
+        {
+          "id": 7001,
+          "qty": 50
+        },
+        {
+          "id": 4052,
+          "qty": 1
+        },
+        {
+          "id": 975,
+          "qty": 1
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Red Mage Hat"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5239,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 2252,
+          "qty": 1
+        },
+        {
+          "id": 1036,
+          "qty": 400
+        },
+        {
+          "id": 7001,
+          "qty": 50
+        },
+        {
+          "id": 4052,
+          "qty": 1
+        },
+        {
+          "id": 982,
+          "qty": 1
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Gray Mage Hat"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5242,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 2252,
+          "qty": 1
+        },
+        {
+          "id": 1036,
+          "qty": 400
+        },
+        {
+          "id": 7001,
+          "qty": 50
+        },
+        {
+          "id": 4052,
+          "qty": 1
+        },
+        {
+          "id": 976,
+          "qty": 1
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Yellow Mage Hat"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5054,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 2252,
+          "qty": 1
+        },
+        {
+          "id": 1054,
+          "qty": 450
+        },
+        {
+          "id": 943,
+          "qty": 1200
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Assassin Mask"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5187,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 5085,
+          "qty": 1
+        },
+        {
+          "id": 5091,
+          "qty": 1
+        },
+        {
+          "id": 5117,
+          "qty": 2
+        },
+        {
+          "id": 978,
+          "qty": 1
+        },
+        {
+          "id": 975,
+          "qty": 1
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Twin Ribbon"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5138,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 5123,
+          "qty": 1
+        },
+        {
+          "id": 5027,
+          "qty": 1
+        },
+        {
+          "id": 7337,
+          "qty": 50
+        },
+        {
+          "id": 981,
+          "qty": 1
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Magic Eyes"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5099,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 7267,
+          "qty": 99
+        },
+        {
+          "id": 749,
+          "qty": 1
+        }
+      ],
+      "zeny": 50000,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Neko Mimi"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5031,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 7013,
+          "qty": 1200
+        },
+        {
+          "id": 7539,
+          "qty": 50
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Mine Hat"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5081,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 2249,
+          "qty": 1
+        },
+        {
+          "id": 714,
+          "qty": 1
+        },
+        {
+          "id": 969,
+          "qty": 3
+        }
+      ],
+      "zeny": 40000,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Crown of Mistress"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5073,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 2285,
+          "qty": 1
+        },
+        {
+          "id": 1550,
+          "qty": 1
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Model Training Hat"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5117,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 731,
+          "qty": 10
+        },
+        {
+          "id": 748,
+          "qty": 2
+        },
+        {
+          "id": 982,
+          "qty": 1
+        }
+      ],
+      "zeny": 50000,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Mystic Rose"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5183,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 604,
+          "qty": 100
+        },
+        {
+          "id": 916,
+          "qty": 100
+        },
+        {
+          "id": 7115,
+          "qty": 100
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Bird Nest Hat"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5151,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 5001,
+          "qty": 1
+        },
+        {
+          "id": 978,
+          "qty": 1
+        },
+        {
+          "id": 991,
+          "qty": 200
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Note Headphones"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 2281,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 998,
+          "qty": 20
+        },
+        {
+          "id": 707,
+          "qty": 1
+        }
+      ],
+      "zeny": 5000,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Opera Masque"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5043,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 2281,
+          "qty": 1
+        },
+        {
+          "id": 1048,
+          "qty": 50
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Opera Phantom Mask"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5094,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 968,
+          "qty": 100
+        },
+        {
+          "id": 2299,
+          "qty": 1
+        },
+        {
+          "id": 1124,
+          "qty": 1
+        },
+        {
+          "id": 931,
+          "qty": 1000
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Helmet of Orc Hero"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5196,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 2208,
+          "qty": 1
+        },
+        {
+          "id": 980,
+          "qty": 1
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Orange Ribbon"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5078,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 5033,
+          "qty": 1
+        },
+        {
+          "id": 5064,
+          "qty": 1
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Sea-Otter Hat"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5004,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 701,
+          "qty": 5
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Oxygen Mask"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5275,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 2261,
+          "qty": 1
+        },
+        {
+          "id": 914,
+          "qty": 200
+        },
+        {
+          "id": 975,
+          "qty": 1
+        },
+        {
+          "id": 976,
+          "qty": 1
+        },
+        {
+          "id": 981,
+          "qty": 1
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Marvelous Wig"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5389,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 5043,
+          "qty": 5
+        },
+        {
+          "id": 969,
+          "qty": 10
+        },
+        {
+          "id": 7568,
+          "qty": 50
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Angel Spirit"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5430,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 2249,
+          "qty": 1
+        },
+        {
+          "id": 7097,
+          "qty": 100
+        },
+        {
+          "id": 985,
+          "qty": 10
+        }
+      ],
+      "zeny": 5000000,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Torch Cap"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5420,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 5430,
+          "qty": 2
+        },
+        {
+          "id": 5421,
+          "qty": 1
+        }
+      ],
+      "zeny": 300000000,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Mask Of Ifrit"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5323,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 5081,
+          "qty": 3
+        },
+        {
+          "id": 7754,
+          "qty": 1
+        },
+        {
+          "id": 2111,
+          "qty": 1
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Misstrance Crown"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5806,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 2280,
+          "qty": 1
+        },
+        {
+          "id": 7479,
+          "qty": 1
+        },
+        {
+          "id": 2109,
+          "qty": 1
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Poet Natalie's Hat"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5315,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 2276,
+          "qty": 1
+        },
+        {
+          "id": 5135,
+          "qty": 1
+        },
+        {
+          "id": 7094,
+          "qty": 50
+        },
+        {
+          "id": 7352,
+          "qty": 50
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Observer"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5807,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 5416,
+          "qty": 1
+        },
+        {
+          "id": 2211,
+          "qty": 2
+        },
+        {
+          "id": 949,
+          "qty": 100
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "October Fest Cap"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5375,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 5094,
+          "qty": 1
+        },
+        {
+          "id": 10018,
+          "qty": 2
+        },
+        {
+          "id": 968,
+          "qty": 5
+        },
+        {
+          "id": 7440,
+          "qty": 30
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Orc Hero Headdress"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5370,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 5302,
+          "qty": 1
+        },
+        {
+          "id": 981,
+          "qty": 5
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Orchid Hairband"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5060,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 2236,
+          "qty": 1
+        },
+        {
+          "id": 7151,
+          "qty": 100
+        },
+        {
+          "id": 7111,
+          "qty": 100
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Party Hat"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5299,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 7441,
+          "qty": 20
+        },
+        {
+          "id": 949,
+          "qty": 50
+        },
+        {
+          "id": 916,
+          "qty": 15
+        },
+        {
+          "id": 7115,
+          "qty": 10
+        },
+        {
+          "id": 7440,
+          "qty": 20
+        },
+        {
+          "id": 7063,
+          "qty": 10
+        },
+        {
+          "id": 7200,
+          "qty": 10
+        },
+        {
+          "id": 2214,
+          "qty": 1
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Pagdayaw"
+    },
+    {
+      "category": "hatmaker",
+      "product": {
+        "id": 5023,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 1059,
+          "qty": 150
+        },
+        {
+          "id": 907,
+          "qty": 100
+        },
+        {
+          "id": 978,
+          "qty": 1
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Maker",
+      "map": "izlude",
+      "x": 125,
+      "y": 118,
+      "_name": "Parcel Hat"
+    }
+  ]
+}

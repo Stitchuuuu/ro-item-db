@@ -1,0 +1,1106 @@
+{
+  "_comment": [
+    "Level 4 Weapon Quest — npc/quests/lvl4_weapon_quest.txt (Grade A Umbala + Grade S Niflheim).",
+    "Absente de la DB construite car le script ne pose aucun setquest : il pilote toute la",
+    "progression via la variable permanente lv4_weapon, donc parsers/quests.js jette ses",
+    "getitem comme orphelins. extract-npc-recipes.js la rate aussi — les delitem sont dans",
+    "des blocs de dialogue antérieurs au getitem producteur, sans lien syntaxique.",
+    "Grade A : une gemme = une arme, déterministe.",
+    "Grade S : chaque type consomme un triplet de gemmes et rend UNE des deux armes citées,",
+    "tirée par rand(1,2) — d’où deux recettes aux matériaux identiques. Le shape `produces`",
+    "n’a pas de champ probabilité, la répartition 50/50 ne vit que dans ces _comment.",
+    "JSON n’a pas de commentaires — les clés _comment / _name sont ignorées par le loader."
+  ],
+  "produces": [
+    {
+      "_comment": "Grade A — Bazo, branche Citrin. Script :139.",
+      "product": {
+        "id": 1141,
+        "qty": 1
+      },
+      "category": "npc",
+      "npc": "Bazo",
+      "map": "umbala",
+      "x": 117,
+      "y": 285,
+      "materials": [
+        {
+          "id": 969,
+          "qty": 10,
+          "_name": "Gold"
+        },
+        {
+          "id": 999,
+          "qty": 50,
+          "_name": "Steel"
+        },
+        {
+          "id": 714,
+          "qty": 10,
+          "_name": "Emperium"
+        },
+        {
+          "id": 7295,
+          "qty": 30,
+          "_name": "Citrin"
+        }
+      ]
+    },
+    {
+      "_comment": "Grade A — Bazo, branche Turquoise. Script :146.",
+      "product": {
+        "id": 1526,
+        "qty": 1
+      },
+      "category": "npc",
+      "npc": "Bazo",
+      "map": "umbala",
+      "x": 117,
+      "y": 285,
+      "materials": [
+        {
+          "id": 969,
+          "qty": 10,
+          "_name": "Gold"
+        },
+        {
+          "id": 999,
+          "qty": 50,
+          "_name": "Steel"
+        },
+        {
+          "id": 714,
+          "qty": 10,
+          "_name": "Emperium"
+        },
+        {
+          "id": 7294,
+          "qty": 30,
+          "_name": "Turquoise"
+        }
+      ]
+    },
+    {
+      "_comment": "Grade A — Bazo, branche Agate. Script :153.",
+      "product": {
+        "id": 1527,
+        "qty": 1
+      },
+      "category": "npc",
+      "npc": "Bazo",
+      "map": "umbala",
+      "x": 117,
+      "y": 285,
+      "materials": [
+        {
+          "id": 969,
+          "qty": 10,
+          "_name": "Gold"
+        },
+        {
+          "id": 999,
+          "qty": 50,
+          "_name": "Steel"
+        },
+        {
+          "id": 714,
+          "qty": 10,
+          "_name": "Emperium"
+        },
+        {
+          "id": 7291,
+          "qty": 30,
+          "_name": "Agate"
+        }
+      ]
+    },
+    {
+      "_comment": "Grade A — Hibilaithan, branche Muscovite. Script :581.",
+      "product": {
+        "id": 1225,
+        "qty": 1
+      },
+      "category": "npc",
+      "npc": "Hibilaithan",
+      "map": "umbala",
+      "x": 163,
+      "y": 257,
+      "materials": [
+        {
+          "id": 969,
+          "qty": 10,
+          "_name": "Gold"
+        },
+        {
+          "id": 999,
+          "qty": 50,
+          "_name": "Steel"
+        },
+        {
+          "id": 714,
+          "qty": 10,
+          "_name": "Emperium"
+        },
+        {
+          "id": 7292,
+          "qty": 30,
+          "_name": "Muscovite"
+        }
+      ]
+    },
+    {
+      "_comment": "Grade A — Hibilaithan, branche Biotite. Script :586.",
+      "product": {
+        "id": 1224,
+        "qty": 1
+      },
+      "category": "npc",
+      "npc": "Hibilaithan",
+      "map": "umbala",
+      "x": 163,
+      "y": 257,
+      "materials": [
+        {
+          "id": 969,
+          "qty": 10,
+          "_name": "Gold"
+        },
+        {
+          "id": 999,
+          "qty": 50,
+          "_name": "Steel"
+        },
+        {
+          "id": 714,
+          "qty": 10,
+          "_name": "Emperium"
+        },
+        {
+          "id": 7297,
+          "qty": 30,
+          "_name": "Biotite"
+        }
+      ]
+    },
+    {
+      "_comment": "Grade A — Hibilaithan, branche Pyroxene. Script :591.",
+      "product": {
+        "id": 1367,
+        "qty": 1
+      },
+      "category": "npc",
+      "npc": "Hibilaithan",
+      "map": "umbala",
+      "x": 163,
+      "y": 257,
+      "materials": [
+        {
+          "id": 969,
+          "qty": 10,
+          "_name": "Gold"
+        },
+        {
+          "id": 999,
+          "qty": 50,
+          "_name": "Steel"
+        },
+        {
+          "id": 714,
+          "qty": 10,
+          "_name": "Emperium"
+        },
+        {
+          "id": 7296,
+          "qty": 30,
+          "_name": "Pyroxene"
+        }
+      ]
+    },
+    {
+      "_comment": "Grade A — Tabezthan, branche Phlogopite. Script :1030.",
+      "product": {
+        "id": 1134,
+        "qty": 1
+      },
+      "category": "npc",
+      "npc": "Tabezthan",
+      "map": "um_in",
+      "x": 156,
+      "y": 77,
+      "materials": [
+        {
+          "id": 969,
+          "qty": 10,
+          "_name": "Gold"
+        },
+        {
+          "id": 999,
+          "qty": 50,
+          "_name": "Steel"
+        },
+        {
+          "id": 714,
+          "qty": 10,
+          "_name": "Emperium"
+        },
+        {
+          "id": 7290,
+          "qty": 30,
+          "_name": "Phlogopite"
+        }
+      ]
+    },
+    {
+      "_comment": "Grade A — Tabezthan, branche Peridot. Script :1036.",
+      "product": {
+        "id": 1139,
+        "qty": 1
+      },
+      "category": "npc",
+      "npc": "Tabezthan",
+      "map": "um_in",
+      "x": 156,
+      "y": 77,
+      "materials": [
+        {
+          "id": 969,
+          "qty": 10,
+          "_name": "Gold"
+        },
+        {
+          "id": 999,
+          "qty": 50,
+          "_name": "Steel"
+        },
+        {
+          "id": 714,
+          "qty": 10,
+          "_name": "Emperium"
+        },
+        {
+          "id": 7289,
+          "qty": 30,
+          "_name": "Peridot"
+        }
+      ]
+    },
+    {
+      "_comment": "Grade A — Tabezthan, branche Rose Quartz. Script :1042.",
+      "product": {
+        "id": 1365,
+        "qty": 1
+      },
+      "category": "npc",
+      "npc": "Tabezthan",
+      "map": "um_in",
+      "x": 156,
+      "y": 77,
+      "materials": [
+        {
+          "id": 969,
+          "qty": 10,
+          "_name": "Gold"
+        },
+        {
+          "id": 999,
+          "qty": 50,
+          "_name": "Steel"
+        },
+        {
+          "id": 714,
+          "qty": 10,
+          "_name": "Emperium"
+        },
+        {
+          "id": 7293,
+          "qty": 30,
+          "_name": "Rose Quartz"
+        }
+      ]
+    },
+    {
+      "_comment": "Grade S — Kayron type 1, rand(1,2) → Great Axe OU Guillotine. Script :1745-1794.",
+      "product": {
+        "id": 1364,
+        "qty": 1
+      },
+      "category": "npc",
+      "npc": "Kayron",
+      "map": "niflheim",
+      "x": 240,
+      "y": 193,
+      "materials": [
+        {
+          "id": 1005,
+          "qty": 2,
+          "_name": "Hammer of Blacksmith"
+        },
+        {
+          "id": 989,
+          "qty": 1,
+          "_name": "Emperium Anvil"
+        },
+        {
+          "id": 710,
+          "qty": 1,
+          "_name": "Illusion Flower"
+        },
+        {
+          "id": 969,
+          "qty": 20,
+          "_name": "Gold"
+        },
+        {
+          "id": 7289,
+          "qty": 30,
+          "_name": "Peridot"
+        },
+        {
+          "id": 7294,
+          "qty": 30,
+          "_name": "Turquoise"
+        },
+        {
+          "id": 7291,
+          "qty": 30,
+          "_name": "Agate"
+        }
+      ]
+    },
+    {
+      "_comment": "Grade S — Kayron type 1, rand(1,2) → Great Axe OU Guillotine. Script :1745-1794.",
+      "product": {
+        "id": 1369,
+        "qty": 1
+      },
+      "category": "npc",
+      "npc": "Kayron",
+      "map": "niflheim",
+      "x": 240,
+      "y": 193,
+      "materials": [
+        {
+          "id": 1005,
+          "qty": 2,
+          "_name": "Hammer of Blacksmith"
+        },
+        {
+          "id": 989,
+          "qty": 1,
+          "_name": "Emperium Anvil"
+        },
+        {
+          "id": 710,
+          "qty": 1,
+          "_name": "Illusion Flower"
+        },
+        {
+          "id": 969,
+          "qty": 20,
+          "_name": "Gold"
+        },
+        {
+          "id": 7289,
+          "qty": 30,
+          "_name": "Peridot"
+        },
+        {
+          "id": 7294,
+          "qty": 30,
+          "_name": "Turquoise"
+        },
+        {
+          "id": 7291,
+          "qty": 30,
+          "_name": "Agate"
+        }
+      ]
+    },
+    {
+      "_comment": "Grade S — Kayron type 2, rand(1,2) → Longinus's Spear OU Brionac. Script :1745-1794.",
+      "product": {
+        "id": 1469,
+        "qty": 1
+      },
+      "category": "npc",
+      "npc": "Kayron",
+      "map": "niflheim",
+      "x": 240,
+      "y": 193,
+      "materials": [
+        {
+          "id": 1005,
+          "qty": 2,
+          "_name": "Hammer of Blacksmith"
+        },
+        {
+          "id": 989,
+          "qty": 1,
+          "_name": "Emperium Anvil"
+        },
+        {
+          "id": 710,
+          "qty": 1,
+          "_name": "Illusion Flower"
+        },
+        {
+          "id": 969,
+          "qty": 20,
+          "_name": "Gold"
+        },
+        {
+          "id": 7290,
+          "qty": 30,
+          "_name": "Phlogopite"
+        },
+        {
+          "id": 7296,
+          "qty": 30,
+          "_name": "Pyroxene"
+        },
+        {
+          "id": 7293,
+          "qty": 30,
+          "_name": "Rose Quartz"
+        }
+      ]
+    },
+    {
+      "_comment": "Grade S — Kayron type 2, rand(1,2) → Longinus's Spear OU Brionac. Script :1745-1794.",
+      "product": {
+        "id": 1470,
+        "qty": 1
+      },
+      "category": "npc",
+      "npc": "Kayron",
+      "map": "niflheim",
+      "x": 240,
+      "y": 193,
+      "materials": [
+        {
+          "id": 1005,
+          "qty": 2,
+          "_name": "Hammer of Blacksmith"
+        },
+        {
+          "id": 989,
+          "qty": 1,
+          "_name": "Emperium Anvil"
+        },
+        {
+          "id": 710,
+          "qty": 1,
+          "_name": "Illusion Flower"
+        },
+        {
+          "id": 969,
+          "qty": 20,
+          "_name": "Gold"
+        },
+        {
+          "id": 7290,
+          "qty": 30,
+          "_name": "Phlogopite"
+        },
+        {
+          "id": 7296,
+          "qty": 30,
+          "_name": "Pyroxene"
+        },
+        {
+          "id": 7293,
+          "qty": 30,
+          "_name": "Rose Quartz"
+        }
+      ]
+    },
+    {
+      "_comment": "Grade S — Reyghema type 1, rand(1,2) → Berserk OU Rudra Bow. Script :2203-2247.",
+      "product": {
+        "id": 1814,
+        "qty": 1
+      },
+      "category": "npc",
+      "npc": "Reyghema",
+      "map": "niflheim",
+      "x": 99,
+      "y": 268,
+      "materials": [
+        {
+          "id": 1005,
+          "qty": 2,
+          "_name": "Hammer of Blacksmith"
+        },
+        {
+          "id": 989,
+          "qty": 1,
+          "_name": "Emperium Anvil"
+        },
+        {
+          "id": 710,
+          "qty": 1,
+          "_name": "Illusion Flower"
+        },
+        {
+          "id": 969,
+          "qty": 20,
+          "_name": "Gold"
+        },
+        {
+          "id": 7292,
+          "qty": 30,
+          "_name": "Muscovite"
+        },
+        {
+          "id": 7293,
+          "qty": 30,
+          "_name": "Rose Quartz"
+        },
+        {
+          "id": 7289,
+          "qty": 30,
+          "_name": "Peridot"
+        }
+      ]
+    },
+    {
+      "_comment": "Grade S — Reyghema type 1, rand(1,2) → Berserk OU Rudra Bow. Script :2203-2247.",
+      "product": {
+        "id": 1720,
+        "qty": 1
+      },
+      "category": "npc",
+      "npc": "Reyghema",
+      "map": "niflheim",
+      "x": 99,
+      "y": 268,
+      "materials": [
+        {
+          "id": 1005,
+          "qty": 2,
+          "_name": "Hammer of Blacksmith"
+        },
+        {
+          "id": 989,
+          "qty": 1,
+          "_name": "Emperium Anvil"
+        },
+        {
+          "id": 710,
+          "qty": 1,
+          "_name": "Illusion Flower"
+        },
+        {
+          "id": 969,
+          "qty": 20,
+          "_name": "Gold"
+        },
+        {
+          "id": 7292,
+          "qty": 30,
+          "_name": "Muscovite"
+        },
+        {
+          "id": 7293,
+          "qty": 30,
+          "_name": "Rose Quartz"
+        },
+        {
+          "id": 7289,
+          "qty": 30,
+          "_name": "Peridot"
+        }
+      ]
+    },
+    {
+      "_comment": "Grade S — Reyghema type 2, rand(1,2) → Tjungkuletti OU Brocca. Script :2203-2247.",
+      "product": {
+        "id": 1416,
+        "qty": 1
+      },
+      "category": "npc",
+      "npc": "Reyghema",
+      "map": "niflheim",
+      "x": 99,
+      "y": 268,
+      "materials": [
+        {
+          "id": 1005,
+          "qty": 2,
+          "_name": "Hammer of Blacksmith"
+        },
+        {
+          "id": 989,
+          "qty": 1,
+          "_name": "Emperium Anvil"
+        },
+        {
+          "id": 710,
+          "qty": 1,
+          "_name": "Illusion Flower"
+        },
+        {
+          "id": 969,
+          "qty": 20,
+          "_name": "Gold"
+        },
+        {
+          "id": 7297,
+          "qty": 30,
+          "_name": "Biotite"
+        },
+        {
+          "id": 7291,
+          "qty": 30,
+          "_name": "Agate"
+        },
+        {
+          "id": 7295,
+          "qty": 30,
+          "_name": "Citrin"
+        }
+      ]
+    },
+    {
+      "_comment": "Grade S — Reyghema type 2, rand(1,2) → Tjungkuletti OU Brocca. Script :2203-2247.",
+      "product": {
+        "id": 1415,
+        "qty": 1
+      },
+      "category": "npc",
+      "npc": "Reyghema",
+      "map": "niflheim",
+      "x": 99,
+      "y": 268,
+      "materials": [
+        {
+          "id": 1005,
+          "qty": 2,
+          "_name": "Hammer of Blacksmith"
+        },
+        {
+          "id": 989,
+          "qty": 1,
+          "_name": "Emperium Anvil"
+        },
+        {
+          "id": 710,
+          "qty": 1,
+          "_name": "Illusion Flower"
+        },
+        {
+          "id": 969,
+          "qty": 20,
+          "_name": "Gold"
+        },
+        {
+          "id": 7297,
+          "qty": 30,
+          "_name": "Biotite"
+        },
+        {
+          "id": 7291,
+          "qty": 30,
+          "_name": "Agate"
+        },
+        {
+          "id": 7295,
+          "qty": 30,
+          "_name": "Citrin"
+        }
+      ]
+    },
+    {
+      "_comment": "Grade S — Hein type 1, rand(1,2) → Edge OU Excalibur. Script :2669-2709.",
+      "product": {
+        "id": 1132,
+        "qty": 1
+      },
+      "category": "npc",
+      "npc": "Hein",
+      "map": "niflheim",
+      "x": 187,
+      "y": 280,
+      "materials": [
+        {
+          "id": 1005,
+          "qty": 2,
+          "_name": "Hammer of Blacksmith"
+        },
+        {
+          "id": 989,
+          "qty": 1,
+          "_name": "Emperium Anvil"
+        },
+        {
+          "id": 710,
+          "qty": 1,
+          "_name": "Illusion Flower"
+        },
+        {
+          "id": 969,
+          "qty": 20,
+          "_name": "Gold"
+        },
+        {
+          "id": 7294,
+          "qty": 30,
+          "_name": "Turquoise"
+        },
+        {
+          "id": 7297,
+          "qty": 30,
+          "_name": "Biotite"
+        },
+        {
+          "id": 7293,
+          "qty": 30,
+          "_name": "Rose Quartz"
+        }
+      ]
+    },
+    {
+      "_comment": "Grade S — Hein type 1, rand(1,2) → Edge OU Excalibur. Script :2669-2709.",
+      "product": {
+        "id": 1137,
+        "qty": 1
+      },
+      "category": "npc",
+      "npc": "Hein",
+      "map": "niflheim",
+      "x": 187,
+      "y": 280,
+      "materials": [
+        {
+          "id": 1005,
+          "qty": 2,
+          "_name": "Hammer of Blacksmith"
+        },
+        {
+          "id": 989,
+          "qty": 1,
+          "_name": "Emperium Anvil"
+        },
+        {
+          "id": 710,
+          "qty": 1,
+          "_name": "Illusion Flower"
+        },
+        {
+          "id": 969,
+          "qty": 20,
+          "_name": "Gold"
+        },
+        {
+          "id": 7294,
+          "qty": 30,
+          "_name": "Turquoise"
+        },
+        {
+          "id": 7297,
+          "qty": 30,
+          "_name": "Biotite"
+        },
+        {
+          "id": 7293,
+          "qty": 30,
+          "_name": "Rose Quartz"
+        }
+      ]
+    },
+    {
+      "_comment": "Grade S — Hein type 2, rand(1,2) → Dragon Slayer OU Schweizersabel. Script :2669-2709.",
+      "product": {
+        "id": 1166,
+        "qty": 1
+      },
+      "category": "npc",
+      "npc": "Hein",
+      "map": "niflheim",
+      "x": 187,
+      "y": 280,
+      "materials": [
+        {
+          "id": 1005,
+          "qty": 2,
+          "_name": "Hammer of Blacksmith"
+        },
+        {
+          "id": 989,
+          "qty": 1,
+          "_name": "Emperium Anvil"
+        },
+        {
+          "id": 710,
+          "qty": 1,
+          "_name": "Illusion Flower"
+        },
+        {
+          "id": 969,
+          "qty": 20,
+          "_name": "Gold"
+        },
+        {
+          "id": 7295,
+          "qty": 30,
+          "_name": "Citrin"
+        },
+        {
+          "id": 7296,
+          "qty": 30,
+          "_name": "Pyroxene"
+        },
+        {
+          "id": 7290,
+          "qty": 30,
+          "_name": "Phlogopite"
+        }
+      ]
+    },
+    {
+      "_comment": "Grade S — Hein type 2, rand(1,2) → Dragon Slayer OU Schweizersabel. Script :2669-2709.",
+      "product": {
+        "id": 1167,
+        "qty": 1
+      },
+      "category": "npc",
+      "npc": "Hein",
+      "map": "niflheim",
+      "x": 187,
+      "y": 280,
+      "materials": [
+        {
+          "id": 1005,
+          "qty": 2,
+          "_name": "Hammer of Blacksmith"
+        },
+        {
+          "id": 989,
+          "qty": 1,
+          "_name": "Emperium Anvil"
+        },
+        {
+          "id": 710,
+          "qty": 1,
+          "_name": "Illusion Flower"
+        },
+        {
+          "id": 969,
+          "qty": 20,
+          "_name": "Gold"
+        },
+        {
+          "id": 7295,
+          "qty": 30,
+          "_name": "Citrin"
+        },
+        {
+          "id": 7296,
+          "qty": 30,
+          "_name": "Pyroxene"
+        },
+        {
+          "id": 7290,
+          "qty": 30,
+          "_name": "Phlogopite"
+        }
+      ]
+    },
+    {
+      "_comment": "Grade S — Waltboughst type 1, rand(1,2) → Byeollungum OU Combat Knife. Script :3117-3163.",
+      "product": {
+        "id": 1140,
+        "qty": 1
+      },
+      "category": "npc",
+      "npc": "Waltboughst",
+      "map": "niflheim",
+      "x": 331,
+      "y": 72,
+      "materials": [
+        {
+          "id": 1005,
+          "qty": 2,
+          "_name": "Hammer of Blacksmith"
+        },
+        {
+          "id": 989,
+          "qty": 1,
+          "_name": "Emperium Anvil"
+        },
+        {
+          "id": 710,
+          "qty": 1,
+          "_name": "Illusion Flower"
+        },
+        {
+          "id": 969,
+          "qty": 20,
+          "_name": "Gold"
+        },
+        {
+          "id": 7292,
+          "qty": 30,
+          "_name": "Muscovite"
+        },
+        {
+          "id": 7295,
+          "qty": 30,
+          "_name": "Citrin"
+        },
+        {
+          "id": 7291,
+          "qty": 30,
+          "_name": "Agate"
+        }
+      ]
+    },
+    {
+      "_comment": "Grade S — Waltboughst type 1, rand(1,2) → Byeollungum OU Combat Knife. Script :3117-3163.",
+      "product": {
+        "id": 1228,
+        "qty": 1
+      },
+      "category": "npc",
+      "npc": "Waltboughst",
+      "map": "niflheim",
+      "x": 331,
+      "y": 72,
+      "materials": [
+        {
+          "id": 1005,
+          "qty": 2,
+          "_name": "Hammer of Blacksmith"
+        },
+        {
+          "id": 989,
+          "qty": 1,
+          "_name": "Emperium Anvil"
+        },
+        {
+          "id": 710,
+          "qty": 1,
+          "_name": "Illusion Flower"
+        },
+        {
+          "id": 969,
+          "qty": 20,
+          "_name": "Gold"
+        },
+        {
+          "id": 7292,
+          "qty": 30,
+          "_name": "Muscovite"
+        },
+        {
+          "id": 7295,
+          "qty": 30,
+          "_name": "Citrin"
+        },
+        {
+          "id": 7291,
+          "qty": 30,
+          "_name": "Agate"
+        }
+      ]
+    },
+    {
+      "_comment": "Grade S — Waltboughst type 2, rand(1,2) → Exorciser OU Grand Cross. Script :3117-3163.",
+      "product": {
+        "id": 1233,
+        "qty": 1
+      },
+      "category": "npc",
+      "npc": "Waltboughst",
+      "map": "niflheim",
+      "x": 331,
+      "y": 72,
+      "materials": [
+        {
+          "id": 1005,
+          "qty": 2,
+          "_name": "Hammer of Blacksmith"
+        },
+        {
+          "id": 989,
+          "qty": 1,
+          "_name": "Emperium Anvil"
+        },
+        {
+          "id": 710,
+          "qty": 1,
+          "_name": "Illusion Flower"
+        },
+        {
+          "id": 969,
+          "qty": 20,
+          "_name": "Gold"
+        },
+        {
+          "id": 7296,
+          "qty": 30,
+          "_name": "Pyroxene"
+        },
+        {
+          "id": 7294,
+          "qty": 30,
+          "_name": "Turquoise"
+        },
+        {
+          "id": 7290,
+          "qty": 30,
+          "_name": "Phlogopite"
+        }
+      ]
+    },
+    {
+      "_comment": "Grade S — Waltboughst type 2, rand(1,2) → Exorciser OU Grand Cross. Script :3117-3163.",
+      "product": {
+        "id": 1528,
+        "qty": 1
+      },
+      "category": "npc",
+      "npc": "Waltboughst",
+      "map": "niflheim",
+      "x": 331,
+      "y": 72,
+      "materials": [
+        {
+          "id": 1005,
+          "qty": 2,
+          "_name": "Hammer of Blacksmith"
+        },
+        {
+          "id": 989,
+          "qty": 1,
+          "_name": "Emperium Anvil"
+        },
+        {
+          "id": 710,
+          "qty": 1,
+          "_name": "Illusion Flower"
+        },
+        {
+          "id": 969,
+          "qty": 20,
+          "_name": "Gold"
+        },
+        {
+          "id": 7296,
+          "qty": 30,
+          "_name": "Pyroxene"
+        },
+        {
+          "id": 7294,
+          "qty": 30,
+          "_name": "Turquoise"
+        },
+        {
+          "id": 7290,
+          "qty": 30,
+          "_name": "Phlogopite"
+        }
+      ]
+    }
+  ]
+}

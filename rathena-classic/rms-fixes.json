@@ -1,0 +1,199 @@
+{
+  "_comment": [
+    "Recipes reconciled from RateMyServer (quest_db type=10000) for products that",
+    "extract-npc-recipes.js cannot capture automatically: multi-stage quests whose",
+    "materials are delitem'd across several dialog steps (the producing `getitem`",
+    "block holds no literal `delitem`), so NPC-level aggregation would pool the",
+    "materials of unrelated items made by the same NPC. Sourced from RMS instead.",
+    "JSON has no comments — `_comment` / `_name` keys are ignored by the loader.",
+    "Each entry is a `produces` recipe: { product:{id,qty}, category, materials:[{id,qty}] }.",
+    "Verify against the cited rAthena script line + RMS qid before trusting quantities."
+  ],
+  "produces": [
+    {
+      "_comment": "Valkyrie Helm — RMS qid 10005. rAthena: getitem 5171 at npc/quests/newgears/2006_headgears.txt:249 (multi-stage; cards + runes consumed earlier).",
+      "product": {
+        "id": 5171,
+        "qty": 1
+      },
+      "category": "npc",
+      "materials": [
+        {
+          "id": 4219,
+          "qty": 1,
+          "_name": "Sage Worm Card"
+        },
+        {
+          "id": 4114,
+          "qty": 1,
+          "_name": "Argiope Card"
+        },
+        {
+          "id": 4177,
+          "qty": 1,
+          "_name": "Dryad Card"
+        },
+        {
+          "id": 4259,
+          "qty": 1,
+          "_name": "Wooden Golem Card"
+        },
+        {
+          "id": 4212,
+          "qty": 1,
+          "_name": "Bongun Card"
+        },
+        {
+          "id": 4073,
+          "qty": 1,
+          "_name": "Pirate Skeleton Card"
+        },
+        {
+          "id": 4112,
+          "qty": 1,
+          "_name": "Marduk Card"
+        },
+        {
+          "id": 4081,
+          "qty": 1,
+          "_name": "Hode Card"
+        },
+        {
+          "id": 4251,
+          "qty": 1,
+          "_name": "Elder Card"
+        },
+        {
+          "id": 4166,
+          "qty": 1,
+          "_name": "Nightmare Terror Card"
+        },
+        {
+          "id": 7511,
+          "qty": 1000,
+          "_name": "Rune of Darkness"
+        },
+        {
+          "id": 7563,
+          "qty": 1000,
+          "_name": "Bloody Rune"
+        }
+      ]
+    },
+    {
+      "_comment": "Zealotus Mask — RMS qid 10014.",
+      "product": {
+        "id": 5121,
+        "qty": 1
+      },
+      "category": "npc",
+      "materials": [
+        {
+          "id": 7263,
+          "qty": 1,
+          "_name": "Cat's Eye"
+        },
+        {
+          "id": 660,
+          "qty": 1,
+          "_name": "Forbidden Red Candle"
+        },
+        {
+          "id": 7099,
+          "qty": 30,
+          "_name": "Worn-out Magic Scroll"
+        }
+      ]
+    },
+    {
+      "_comment": "Helmet of Orc Hero — RMS qid 10030. Final step of the Orc Hero chain.",
+      "product": {
+        "id": 5094,
+        "qty": 1
+      },
+      "category": "npc",
+      "materials": [
+        {
+          "id": 968,
+          "qty": 1,
+          "_name": "Heroic Emblem"
+        },
+        {
+          "id": 2299,
+          "qty": 1,
+          "_name": "Orc Helm"
+        },
+        {
+          "id": 1124,
+          "qty": 1,
+          "_name": "Orcish Sword"
+        },
+        {
+          "id": 931,
+          "qty": 1,
+          "_name": "Orcish Voucher"
+        }
+      ]
+    },
+    {
+      "_comment": "Oxygen Mask — RMS qid 10047. rAthena: getitem 5004 at npc/quests/quests_payon.txt:163.",
+      "product": {
+        "id": 5004,
+        "qty": 1
+      },
+      "category": "npc",
+      "materials": [
+        {
+          "id": 701,
+          "qty": 5,
+          "_name": "Ora Ora"
+        }
+      ]
+    },
+    {
+      "_comment": "Helm of Angel — RMS qid 10048. rAthena: getitem 5025 at npc/quests/quests_payon.txt:256.",
+      "product": {
+        "id": 5025,
+        "qty": 1
+      },
+      "category": "npc",
+      "materials": [
+        {
+          "id": 2229,
+          "qty": 1,
+          "_name": "Helm [1]"
+        },
+        {
+          "id": 2254,
+          "qty": 1,
+          "_name": "Angel Wing"
+        },
+        {
+          "id": 7036,
+          "qty": 5,
+          "_name": "Fang of Hatii"
+        }
+      ]
+    },
+    {
+      "_comment": "Deviruchi Hat — RMS qid 10048. rAthena: getitem 5038 at npc/quests/quests_payon.txt:292.",
+      "product": {
+        "id": 5038,
+        "qty": 1
+      },
+      "category": "npc",
+      "materials": [
+        {
+          "id": 1038,
+          "qty": 600,
+          "_name": "Little Evil Horn"
+        },
+        {
+          "id": 7048,
+          "qty": 40,
+          "_name": "Talon of Griffon"
+        }
+      ]
+    }
+  ]
+}

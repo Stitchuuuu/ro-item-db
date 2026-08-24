@@ -1,0 +1,3127 @@
+{
+  "_comment": "Stock rAthena pre-re headgear quest NPCs the script parser misses (no setquest anchor). Rescued by hand from npc/custom/quests/*.txt.",
+  "items": [],
+  "quests": [],
+  "produces": [
+    {
+      "category": "npc",
+      "product": {
+        "id": 2202,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 2201,
+          "qty": 1
+        }
+      ],
+      "zeny": 400000,
+      "npc": "Maseph",
+      "map": "moc_fild07",
+      "x": 334,
+      "y": 186,
+      "_name": "Sunglasses"
+    },
+    {
+      "category": "npc",
+      "product": {
+        "id": 2214,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 949,
+          "qty": 100
+        },
+        {
+          "id": 706,
+          "qty": 1
+        },
+        {
+          "id": 722,
+          "qty": 1
+        },
+        {
+          "id": 2213,
+          "qty": 1
+        }
+      ],
+      "zeny": 0,
+      "npc": "Kafra Employee#bunny",
+      "map": "alberta",
+      "x": 26,
+      "y": 229,
+      "_name": "Bunny Band"
+    },
+    {
+      "category": "npc",
+      "product": {
+        "id": 2237,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 7200,
+          "qty": 1
+        },
+        {
+          "id": 919,
+          "qty": 1
+        },
+        {
+          "id": 983,
+          "qty": 1
+        },
+        {
+          "id": 2241,
+          "qty": 1
+        },
+        {
+          "id": 938,
+          "qty": 100
+        },
+        {
+          "id": 973,
+          "qty": 1
+        },
+        {
+          "id": 731,
+          "qty": 1
+        }
+      ],
+      "zeny": 0,
+      "npc": "Bearded Man#bandit",
+      "map": "umbala",
+      "x": 126,
+      "y": 129,
+      "_name": "Bandit Beard"
+    },
+    {
+      "category": "npc",
+      "product": {
+        "id": 2250,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 5441,
+          "qty": 1
+        },
+        {
+          "id": 976,
+          "qty": 1
+        }
+      ],
+      "zeny": 0,
+      "npc": "Trainee#2008hat01",
+      "map": "morocc_in",
+      "x": 137,
+      "y": 102,
+      "_name": "Cute Ribbon"
+    },
+    {
+      "category": "npc",
+      "product": {
+        "id": 2250,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 5440,
+          "qty": 1
+        },
+        {
+          "id": 976,
+          "qty": 1
+        }
+      ],
+      "zeny": 0,
+      "npc": "Trainee#2008hat01",
+      "map": "morocc_in",
+      "x": 137,
+      "y": 102,
+      "_name": "Cute Ribbon"
+    },
+    {
+      "category": "npc",
+      "product": {
+        "id": 2250,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 5439,
+          "qty": 1
+        },
+        {
+          "id": 976,
+          "qty": 1
+        }
+      ],
+      "zeny": 0,
+      "npc": "Trainee#2008hat01",
+      "map": "morocc_in",
+      "x": 137,
+      "y": 102,
+      "_name": "Cute Ribbon"
+    },
+    {
+      "category": "npc",
+      "product": {
+        "id": 2250,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 5438,
+          "qty": 1
+        },
+        {
+          "id": 976,
+          "qty": 1
+        }
+      ],
+      "zeny": 0,
+      "npc": "Trainee#2008hat01",
+      "map": "morocc_in",
+      "x": 137,
+      "y": 102,
+      "_name": "Cute Ribbon"
+    },
+    {
+      "category": "npc",
+      "product": {
+        "id": 2273,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 2275,
+          "qty": 1
+        },
+        {
+          "id": 998,
+          "qty": 50
+        },
+        {
+          "id": 733,
+          "qty": 1
+        }
+      ],
+      "zeny": 3500,
+      "npc": "Trader#01",
+      "map": "aldeba_in",
+      "x": 152,
+      "y": 166,
+      "_name": "Doctor Band"
+    },
+    {
+      "category": "npc",
+      "product": {
+        "id": 2280,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 1019,
+          "qty": 120
+        }
+      ],
+      "zeny": 10000,
+      "npc": "Trader#01",
+      "map": "aldeba_in",
+      "x": 152,
+      "y": 166,
+      "_name": "Sakkat"
+    },
+    {
+      "category": "npc",
+      "product": {
+        "id": 2281,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 998,
+          "qty": 20
+        },
+        {
+          "id": 707,
+          "qty": 1
+        }
+      ],
+      "zeny": 5000,
+      "npc": "Trader#01",
+      "map": "aldeba_in",
+      "x": 152,
+      "y": 166,
+      "_name": "Opera Masque"
+    },
+    {
+      "category": "npc",
+      "product": {
+        "id": 2283,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 724,
+          "qty": 1
+        },
+        {
+          "id": 949,
+          "qty": 200
+        },
+        {
+          "id": 5001,
+          "qty": 1
+        }
+      ],
+      "zeny": 5000,
+      "npc": "Mystic Lady",
+      "map": "payon_in01",
+      "x": 18,
+      "y": 10,
+      "_name": "Ear Muffs"
+    },
+    {
+      "category": "npc",
+      "product": {
+        "id": 2284,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 923,
+          "qty": 20
+        }
+      ],
+      "zeny": 0,
+      "npc": "Cherokee",
+      "map": "alberta_in",
+      "x": 122,
+      "y": 53,
+      "_name": "Antlers"
+    },
+    {
+      "category": "npc",
+      "product": {
+        "id": 2285,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 5073,
+          "qty": 1
+        },
+        {
+          "id": 1750,
+          "qty": 1
+        }
+      ],
+      "zeny": 0,
+      "npc": "Nanhyang#1",
+      "map": "payon_in03",
+      "x": 8,
+      "y": 193,
+      "_name": "Apple of Archer"
+    },
+    {
+      "category": "npc",
+      "product": {
+        "id": 2286,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 2213,
+          "qty": 1
+        },
+        {
+          "id": 1040,
+          "qty": 20
+        },
+        {
+          "id": 919,
+          "qty": 20
+        }
+      ],
+      "zeny": 0,
+      "npc": "Elven Ears Quest",
+      "map": "geffen",
+      "x": 127,
+      "y": 49,
+      "_name": "Elven Ears"
+    },
+    {
+      "category": "npc",
+      "product": {
+        "id": 2292,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 999,
+          "qty": 50
+        }
+      ],
+      "zeny": 2000,
+      "npc": "Blacksmith",
+      "map": "geffen_in",
+      "x": 144,
+      "y": 166,
+      "_name": "Welding Mask"
+    },
+    {
+      "category": "npc",
+      "product": {
+        "id": 2293,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 1049,
+          "qty": 4
+        }
+      ],
+      "zeny": 0,
+      "npc": "Granny",
+      "map": "payon_in01",
+      "x": 99,
+      "y": 72,
+      "_name": "Pretend Murdered"
+    },
+    {
+      "category": "npc",
+      "product": {
+        "id": 2339,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 938,
+          "qty": 30
+        },
+        {
+          "id": 907,
+          "qty": 30
+        }
+      ],
+      "zeny": 0,
+      "npc": "Tzerero#sn",
+      "map": "aldeba_in",
+      "x": 223,
+      "y": 167,
+      "_name": "Pantie"
+    },
+    {
+      "category": "npc",
+      "product": {
+        "id": 5001,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 999,
+          "qty": 40
+        },
+        {
+          "id": 984,
+          "qty": 1
+        },
+        {
+          "id": 970,
+          "qty": 1
+        },
+        {
+          "id": 1003,
+          "qty": 1
+        }
+      ],
+      "zeny": 0,
+      "npc": "Eric",
+      "map": "geffen_in",
+      "x": 30,
+      "y": 71,
+      "_name": "Headset"
+    },
+    {
+      "category": "npc",
+      "product": {
+        "id": 5012,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 710,
+          "qty": 1
+        },
+        {
+          "id": 703,
+          "qty": 1
+        },
+        {
+          "id": 704,
+          "qty": 1
+        },
+        {
+          "id": 708,
+          "qty": 1
+        }
+      ],
+      "zeny": 0,
+      "npc": "Teacher",
+      "map": "prt_in",
+      "x": 38,
+      "y": 108,
+      "_name": "Ph.D Hat"
+    },
+    {
+      "category": "npc",
+      "product": {
+        "id": 5013,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 714,
+          "qty": 3
+        }
+      ],
+      "zeny": 5000000,
+      "npc": "Lord Kaho's Servant",
+      "map": "geffen",
+      "x": 115,
+      "y": 107,
+      "_name": "Lord Kaho's Horn"
+    },
+    {
+      "category": "npc",
+      "product": {
+        "id": 5016,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 1030,
+          "qty": 10
+        }
+      ],
+      "zeny": 0,
+      "npc": "Grampa",
+      "map": "alberta_in",
+      "x": 28,
+      "y": 145,
+      "_name": "Boy's Cap"
+    },
+    {
+      "category": "npc",
+      "product": {
+        "id": 5018,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 2247,
+          "qty": 1
+        },
+        {
+          "id": 916,
+          "qty": 300
+        }
+      ],
+      "zeny": 500,
+      "npc": "Trader#01",
+      "map": "aldeba_in",
+      "x": 152,
+      "y": 166,
+      "_name": "Feather Bonnet"
+    },
+    {
+      "category": "npc",
+      "product": {
+        "id": 5020,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 10007,
+          "qty": 1
+        },
+        {
+          "id": 10009,
+          "qty": 1
+        }
+      ],
+      "zeny": 0,
+      "npc": "Jac",
+      "map": "prt_in",
+      "x": 53,
+      "y": 56,
+      "_name": "Kafra Band"
+    },
+    {
+      "category": "npc",
+      "product": {
+        "id": 5021,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 2233,
+          "qty": 1
+        },
+        {
+          "id": 969,
+          "qty": 1
+        },
+        {
+          "id": 949,
+          "qty": 80
+        },
+        {
+          "id": 999,
+          "qty": 20
+        },
+        {
+          "id": 938,
+          "qty": 800
+        }
+      ],
+      "zeny": 0,
+      "npc": "Traveler#head",
+      "map": "comodo",
+      "x": 273,
+      "y": 137,
+      "_name": "Grief for Greed"
+    },
+    {
+      "category": "npc",
+      "product": {
+        "id": 5022,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 7086,
+          "qty": 1
+        },
+        {
+          "id": 969,
+          "qty": 10
+        },
+        {
+          "id": 999,
+          "qty": 40
+        },
+        {
+          "id": 1003,
+          "qty": 50
+        },
+        {
+          "id": 984,
+          "qty": 2
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat store girl#new30",
+      "map": "alberta",
+      "x": 136,
+      "y": 79,
+      "_name": "Hat of the Sun God"
+    },
+    {
+      "category": "npc",
+      "product": {
+        "id": 5023,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 1059,
+          "qty": 150
+        },
+        {
+          "id": 907,
+          "qty": 100
+        },
+        {
+          "id": 978,
+          "qty": 1
+        }
+      ],
+      "zeny": 0,
+      "npc": "Traveler#head",
+      "map": "comodo",
+      "x": 273,
+      "y": 137,
+      "_name": "Parcel Hat"
+    },
+    {
+      "category": "npc",
+      "product": {
+        "id": 5024,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 529,
+          "qty": 10
+        },
+        {
+          "id": 530,
+          "qty": 5
+        },
+        {
+          "id": 538,
+          "qty": 15
+        },
+        {
+          "id": 539,
+          "qty": 20
+        },
+        {
+          "id": 999,
+          "qty": 10
+        }
+      ],
+      "zeny": 0,
+      "npc": "Vending Machine",
+      "map": "xmas",
+      "x": 115,
+      "y": 297,
+      "_name": "Cake Hat"
+    },
+    {
+      "category": "npc",
+      "product": {
+        "id": 5026,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 539,
+          "qty": 120
+        },
+        {
+          "id": 982,
+          "qty": 1
+        },
+        {
+          "id": 949,
+          "qty": 330
+        },
+        {
+          "id": 1036,
+          "qty": 450
+        }
+      ],
+      "zeny": 0,
+      "npc": "Vending Machine",
+      "map": "xmas",
+      "x": 115,
+      "y": 297,
+      "_name": "Chef Hat"
+    },
+    {
+      "category": "npc",
+      "product": {
+        "id": 5027,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 2252,
+          "qty": 1
+        },
+        {
+          "id": 1036,
+          "qty": 400
+        },
+        {
+          "id": 4052,
+          "qty": 1
+        },
+        {
+          "id": 7001,
+          "qty": 50
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat store girl#new30",
+      "map": "alberta",
+      "x": 136,
+      "y": 79,
+      "_name": "Mage Hat"
+    },
+    {
+      "category": "npc",
+      "product": {
+        "id": 5028,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 2279,
+          "qty": 1
+        },
+        {
+          "id": 7035,
+          "qty": 50
+        },
+        {
+          "id": 526,
+          "qty": 100
+        }
+      ],
+      "zeny": 0,
+      "npc": "Vending Machine",
+      "map": "xmas",
+      "x": 115,
+      "y": 297,
+      "_name": "Candle"
+    },
+    {
+      "category": "npc",
+      "product": {
+        "id": 5029,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 7033,
+          "qty": 850
+        },
+        {
+          "id": 7068,
+          "qty": 300
+        },
+        {
+          "id": 1015,
+          "qty": 1
+        }
+      ],
+      "zeny": 0,
+      "npc": "Vending Machine",
+      "map": "xmas",
+      "x": 115,
+      "y": 297,
+      "_name": "Spore Hat"
+    },
+    {
+      "category": "npc",
+      "product": {
+        "id": 5030,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 999,
+          "qty": 10
+        },
+        {
+          "id": 948,
+          "qty": 200
+        }
+      ],
+      "zeny": 0,
+      "npc": "Jac",
+      "map": "prt_in",
+      "x": 53,
+      "y": 56,
+      "_name": "Panda Hat"
+    },
+    {
+      "category": "npc",
+      "product": {
+        "id": 5031,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 5009,
+          "qty": 1
+        },
+        {
+          "id": 5028,
+          "qty": 1
+        },
+        {
+          "id": 747,
+          "qty": 1
+        },
+        {
+          "id": 999,
+          "qty": 25
+        }
+      ],
+      "zeny": 0,
+      "npc": "Traveler#head",
+      "map": "comodo",
+      "x": 273,
+      "y": 137,
+      "_name": "Mine Hat"
+    },
+    {
+      "category": "npc",
+      "product": {
+        "id": 5032,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 1059,
+          "qty": 250
+        },
+        {
+          "id": 2221,
+          "qty": 1
+        },
+        {
+          "id": 2227,
+          "qty": 1
+        },
+        {
+          "id": 7063,
+          "qty": 600
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat store girl#new30",
+      "map": "alberta",
+      "x": 136,
+      "y": 79,
+      "_name": "Sunday Hat"
+    },
+    {
+      "category": "npc",
+      "product": {
+        "id": 5033,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 2213,
+          "qty": 1
+        },
+        {
+          "id": 1036,
+          "qty": 20
+        },
+        {
+          "id": 7012,
+          "qty": 200
+        },
+        {
+          "id": 7065,
+          "qty": 300
+        }
+      ],
+      "zeny": 0,
+      "npc": "Vending Machine",
+      "map": "xmas",
+      "x": 115,
+      "y": 297,
+      "_name": "Raccoon Hat"
+    },
+    {
+      "category": "npc",
+      "product": {
+        "id": 5034,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 2233,
+          "qty": 1
+        },
+        {
+          "id": 746,
+          "qty": 20
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hair Ornament Girl",
+      "map": "comodo",
+      "x": 228,
+      "y": 159,
+      "_name": "Bulb Band"
+    },
+    {
+      "category": "npc",
+      "product": {
+        "id": 5035,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 741,
+          "qty": 1
+        },
+        {
+          "id": 909,
+          "qty": 300
+        }
+      ],
+      "zeny": 0,
+      "npc": "Pac",
+      "map": "prt_in",
+      "x": 45,
+      "y": 113,
+      "_name": "Poring Hat"
+    },
+    {
+      "category": "npc",
+      "product": {
+        "id": 5036,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 2608,
+          "qty": 1
+        },
+        {
+          "id": 7069,
+          "qty": 500
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hair Ornament Girl",
+      "map": "comodo",
+      "x": 228,
+      "y": 159,
+      "_name": "Cross Hat"
+    },
+    {
+      "category": "npc",
+      "product": {
+        "id": 5039,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 5015,
+          "qty": 1
+        },
+        {
+          "id": 978,
+          "qty": 1
+        },
+        {
+          "id": 7030,
+          "qty": 50
+        }
+      ],
+      "zeny": 0,
+      "npc": "Vending Machine",
+      "map": "xmas",
+      "x": 115,
+      "y": 297,
+      "_name": "Rainbow Eggshell"
+    },
+    {
+      "category": "npc",
+      "product": {
+        "id": 5040,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 7047,
+          "qty": 100
+        }
+      ],
+      "zeny": 0,
+      "npc": "Vending Machine",
+      "map": "xmas",
+      "x": 115,
+      "y": 297,
+      "_name": "Blush"
+    },
+    {
+      "category": "npc",
+      "product": {
+        "id": 5041,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 7013,
+          "qty": 1200
+        }
+      ],
+      "zeny": 0,
+      "npc": "Stylish Merchant#new30",
+      "map": "alberta",
+      "x": 120,
+      "y": 53,
+      "_name": "Heart Hairpin"
+    },
+    {
+      "category": "npc",
+      "product": {
+        "id": 5042,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 10007,
+          "qty": 1
+        },
+        {
+          "id": 968,
+          "qty": 50
+        }
+      ],
+      "zeny": 0,
+      "npc": "Stylish Merchant#new30",
+      "map": "alberta",
+      "x": 120,
+      "y": 53,
+      "_name": "Bao Bao"
+    },
+    {
+      "category": "npc",
+      "product": {
+        "id": 5043,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 2281,
+          "qty": 1
+        },
+        {
+          "id": 1048,
+          "qty": 50
+        }
+      ],
+      "zeny": 0,
+      "npc": "Traveler#head",
+      "map": "comodo",
+      "x": 273,
+      "y": 137,
+      "_name": "Opera Phantom Mask"
+    },
+    {
+      "category": "npc",
+      "product": {
+        "id": 5045,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 2252,
+          "qty": 1
+        },
+        {
+          "id": 1054,
+          "qty": 450
+        },
+        {
+          "id": 943,
+          "qty": 1200
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat store girl#new30",
+      "map": "alberta",
+      "x": 136,
+      "y": 79,
+      "_name": "Magician Hat"
+    },
+    {
+      "category": "npc",
+      "product": {
+        "id": 5046,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 609,
+          "qty": 10
+        },
+        {
+          "id": 978,
+          "qty": 1
+        },
+        {
+          "id": 2264,
+          "qty": 1
+        }
+      ],
+      "zeny": 0,
+      "npc": "Zac",
+      "map": "prt_in",
+      "x": 130,
+      "y": 66,
+      "_name": "Bongun Hat"
+    },
+    {
+      "category": "npc",
+      "product": {
+        "id": 5047,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 2271,
+          "qty": 1
+        },
+        {
+          "id": 975,
+          "qty": 1
+        }
+      ],
+      "zeny": 0,
+      "npc": "Stylish Merchant#new30",
+      "map": "alberta",
+      "x": 120,
+      "y": 53,
+      "_name": "Fashionable Glasses"
+    },
+    {
+      "category": "npc",
+      "product": {
+        "id": 5048,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 5041,
+          "qty": 1
+        },
+        {
+          "id": 999,
+          "qty": 10
+        }
+      ],
+      "zeny": 0,
+      "npc": "Blac",
+      "map": "prt_in",
+      "x": 162,
+      "y": 131,
+      "_name": "Cresent Hairpin"
+    },
+    {
+      "category": "npc",
+      "product": {
+        "id": 5048,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 5041,
+          "qty": 1
+        },
+        {
+          "id": 999,
+          "qty": 10
+        }
+      ],
+      "zeny": 0,
+      "npc": "Stylish Merchant#new30",
+      "map": "alberta",
+      "x": 120,
+      "y": 53,
+      "_name": "Cresent Hairpin"
+    },
+    {
+      "category": "npc",
+      "product": {
+        "id": 5049,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 1099,
+          "qty": 1500
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hair Ornament Girl",
+      "map": "comodo",
+      "x": 228,
+      "y": 159,
+      "_name": "Striped Hairband"
+    },
+    {
+      "category": "npc",
+      "product": {
+        "id": 5050,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 5037,
+          "qty": 1
+        },
+        {
+          "id": 7064,
+          "qty": 500
+        }
+      ],
+      "zeny": 0,
+      "npc": "Vending Machine",
+      "map": "xmas",
+      "x": 115,
+      "y": 297,
+      "_name": "Wonder Nutshell"
+    },
+    {
+      "category": "npc",
+      "product": {
+        "id": 5052,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 2211,
+          "qty": 1
+        },
+        {
+          "id": 978,
+          "qty": 1
+        },
+        {
+          "id": 7003,
+          "qty": 300
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hair Ornament Girl",
+      "map": "comodo",
+      "x": 228,
+      "y": 159,
+      "_name": "Blue Hairband"
+    },
+    {
+      "category": "npc",
+      "product": {
+        "id": 5053,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 999,
+          "qty": 25
+        },
+        {
+          "id": 979,
+          "qty": 1
+        },
+        {
+          "id": 976,
+          "qty": 1
+        },
+        {
+          "id": 1059,
+          "qty": 150
+        },
+        {
+          "id": 969,
+          "qty": 2
+        }
+      ],
+      "zeny": 0,
+      "npc": "Pac",
+      "map": "prt_in",
+      "x": 45,
+      "y": 113,
+      "_name": "Sphinx Hat"
+    },
+    {
+      "category": "npc",
+      "product": {
+        "id": 5057,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 2213,
+          "qty": 1
+        },
+        {
+          "id": 983,
+          "qty": 1
+        },
+        {
+          "id": 914,
+          "qty": 200
+        }
+      ],
+      "zeny": 10000,
+      "npc": "Neko Neko#1",
+      "map": "payon",
+      "x": 115,
+      "y": 131,
+      "_name": "Black Cat Ears"
+    },
+    {
+      "category": "npc",
+      "product": {
+        "id": 5058,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 2233,
+          "qty": 1
+        },
+        {
+          "id": 983,
+          "qty": 1
+        },
+        {
+          "id": 7206,
+          "qty": 300
+        },
+        {
+          "id": 7030,
+          "qty": 1
+        }
+      ],
+      "zeny": 0,
+      "npc": "Educated Traveller",
+      "map": "morocc",
+      "x": 273,
+      "y": 79,
+      "_name": "Drooping Cat"
+    },
+    {
+      "category": "npc",
+      "product": {
+        "id": 5059,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 5030,
+          "qty": 1
+        },
+        {
+          "id": 7213,
+          "qty": 100
+        },
+        {
+          "id": 7217,
+          "qty": 100
+        },
+        {
+          "id": 7161,
+          "qty": 300
+        }
+      ],
+      "zeny": 0,
+      "npc": "Fuzzy Fuzz#1",
+      "map": "xmas",
+      "x": 175,
+      "y": 156,
+      "_name": "Teddybear Hat"
+    },
+    {
+      "category": "npc",
+      "product": {
+        "id": 5060,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 2236,
+          "qty": 1
+        },
+        {
+          "id": 7151,
+          "qty": 100
+        },
+        {
+          "id": 7111,
+          "qty": 100
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Merchant#zero",
+      "map": "xmas_in",
+      "x": 35,
+      "y": 30,
+      "_name": "Party Hat"
+    },
+    {
+      "category": "npc",
+      "product": {
+        "id": 5061,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 2269,
+          "qty": 1
+        },
+        {
+          "id": 999,
+          "qty": 10
+        }
+      ],
+      "zeny": 20000,
+      "npc": "Argen#1",
+      "map": "geffen",
+      "x": 129,
+      "y": 148,
+      "_name": "Flower Hairpin"
+    },
+    {
+      "category": "npc",
+      "product": {
+        "id": 5062,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 2280,
+          "qty": 1
+        },
+        {
+          "id": 7197,
+          "qty": 300
+        },
+        {
+          "id": 7150,
+          "qty": 300
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Merchant#zero",
+      "map": "xmas_in",
+      "x": 35,
+      "y": 30,
+      "_name": "Straw Hat"
+    },
+    {
+      "category": "npc",
+      "product": {
+        "id": 5063,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 970,
+          "qty": 1
+        },
+        {
+          "id": 930,
+          "qty": 500
+        }
+      ],
+      "zeny": 0,
+      "npc": "Argen#1",
+      "map": "geffen",
+      "x": 129,
+      "y": 148,
+      "_name": "Giant Band Aid"
+    },
+    {
+      "category": "npc",
+      "product": {
+        "id": 5064,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 945,
+          "qty": 600
+        },
+        {
+          "id": 7030,
+          "qty": 1
+        }
+      ],
+      "zeny": 0,
+      "npc": "Educated Traveller",
+      "map": "morocc",
+      "x": 273,
+      "y": 79,
+      "_name": "Smokie Leaf"
+    },
+    {
+      "category": "npc",
+      "product": {
+        "id": 5065,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 624,
+          "qty": 1
+        },
+        {
+          "id": 959,
+          "qty": 300
+        },
+        {
+          "id": 551,
+          "qty": 50
+        },
+        {
+          "id": 1023,
+          "qty": 1
+        },
+        {
+          "id": 938,
+          "qty": 100
+        },
+        {
+          "id": 7030,
+          "qty": 1
+        }
+      ],
+      "zeny": 0,
+      "npc": "Educated Traveller",
+      "map": "morocc",
+      "x": 273,
+      "y": 79,
+      "_name": "Blue Fish"
+    },
+    {
+      "category": "npc",
+      "product": {
+        "id": 5067,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 5062,
+          "qty": 1
+        },
+        {
+          "id": 952,
+          "qty": 50
+        },
+        {
+          "id": 1907,
+          "qty": 1
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Merchant#zero",
+      "map": "xmas_in",
+      "x": 35,
+      "y": 30,
+      "_name": "Sombrero"
+    },
+    {
+      "category": "npc",
+      "product": {
+        "id": 5068,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 2255,
+          "qty": 1
+        },
+        {
+          "id": 2286,
+          "qty": 1
+        }
+      ],
+      "zeny": 20000,
+      "npc": "Old Blacksmith#hgear",
+      "map": "yuno",
+      "x": 241,
+      "y": 52,
+      "_name": "Evil Wing Ears"
+    },
+    {
+      "category": "npc",
+      "product": {
+        "id": 5068,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 2255,
+          "qty": 1
+        },
+        {
+          "id": 2286,
+          "qty": 1
+        }
+      ],
+      "zeny": 20000,
+      "npc": "Old Blacksmith#hgear",
+      "map": "yuno",
+      "x": 241,
+      "y": 52,
+      "_name": "Evil Wing Ears"
+    },
+    {
+      "category": "npc",
+      "product": {
+        "id": 5069,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 1022,
+          "qty": 999
+        }
+      ],
+      "zeny": 0,
+      "npc": "Nine Tails#Kitsune Man",
+      "map": "pay_dun03",
+      "x": 48,
+      "y": 84,
+      "_name": "Kitsune Mask"
+    },
+    {
+      "category": "npc",
+      "product": {
+        "id": 5070,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 7216,
+          "qty": 300
+        },
+        {
+          "id": 7097,
+          "qty": 300
+        },
+        {
+          "id": 2211,
+          "qty": 1
+        },
+        {
+          "id": 982,
+          "qty": 1
+        }
+      ],
+      "zeny": 0,
+      "npc": "Zhenbolt#1",
+      "map": "yuno",
+      "x": 300,
+      "y": 188,
+      "_name": "Hot-blooded Headband"
+    },
+    {
+      "category": "npc",
+      "product": {
+        "id": 5071,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 5010,
+          "qty": 1
+        },
+        {
+          "id": 5049,
+          "qty": 1
+        },
+        {
+          "id": 7101,
+          "qty": 10
+        }
+      ],
+      "zeny": 10000,
+      "npc": "Meruntei#1",
+      "map": "comodo",
+      "x": 237,
+      "y": 217,
+      "_name": "Indian Headband"
+    },
+    {
+      "category": "npc",
+      "product": {
+        "id": 5073,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 2285,
+          "qty": 1
+        },
+        {
+          "id": 1550,
+          "qty": 1
+        }
+      ],
+      "zeny": 0,
+      "npc": "Nanhyang#1",
+      "map": "payon_in03",
+      "x": 8,
+      "y": 193,
+      "_name": "Model Training Hat"
+    },
+    {
+      "category": "npc",
+      "product": {
+        "id": 5074,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 2254,
+          "qty": 1
+        },
+        {
+          "id": 2286,
+          "qty": 1
+        }
+      ],
+      "zeny": 20000,
+      "npc": "Old Blacksmith#hgear",
+      "map": "yuno",
+      "x": 241,
+      "y": 52,
+      "_name": "Angel Wing Ears"
+    },
+    {
+      "category": "npc",
+      "product": {
+        "id": 5074,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 2254,
+          "qty": 1
+        },
+        {
+          "id": 2286,
+          "qty": 1
+        }
+      ],
+      "zeny": 20000,
+      "npc": "Old Blacksmith#hgear",
+      "map": "yuno",
+      "x": 241,
+      "y": 52,
+      "_name": "Angel Wing Ears"
+    },
+    {
+      "category": "npc",
+      "product": {
+        "id": 5075,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 2248,
+          "qty": 1
+        },
+        {
+          "id": 7030,
+          "qty": 108
+        },
+        {
+          "id": 7194,
+          "qty": 108
+        },
+        {
+          "id": 7120,
+          "qty": 4
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Merchant#zero",
+      "map": "xmas_in",
+      "x": 35,
+      "y": 30,
+      "_name": "Cowboy Hat"
+    },
+    {
+      "category": "npc",
+      "product": {
+        "id": 5076,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 2226,
+          "qty": 1
+        },
+        {
+          "id": 7038,
+          "qty": 500
+        }
+      ],
+      "zeny": 0,
+      "npc": "Hat Merchant#zero",
+      "map": "xmas_in",
+      "x": 35,
+      "y": 30,
+      "_name": "Beanie"
+    },
+    {
+      "category": "npc",
+      "product": {
+        "id": 5077,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 2278,
+          "qty": 1
+        },
+        {
+          "id": 975,
+          "qty": 1
+        }
+      ],
+      "zeny": 0,
+      "npc": "Seth#1",
+      "map": "geffen",
+      "x": 83,
+      "y": 189,
+      "_name": "Tulip Hairpin"
+    },
+    {
+      "category": "npc",
+      "product": {
+        "id": 5078,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 5033,
+          "qty": 1
+        },
+        {
+          "id": 5064,
+          "qty": 1
+        }
+      ],
+      "zeny": 0,
+      "npc": "Pretty Lindsay#1",
+      "map": "xmas",
+      "x": 183,
+      "y": 267,
+      "_name": "Sea-Otter Hat"
+    },
+    {
+      "category": "npc",
+      "product": {
+        "id": 5079,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 2294,
+          "qty": 1
+        },
+        {
+          "id": 7220,
+          "qty": 400
+        }
+      ],
+      "zeny": 0,
+      "npc": "Argen#1",
+      "map": "geffen",
+      "x": 129,
+      "y": 148,
+      "_name": "X Hairpin"
+    },
+    {
+      "category": "npc",
+      "product": {
+        "id": 5080,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 10006,
+          "qty": 1
+        },
+        {
+          "id": 714,
+          "qty": 1
+        },
+        {
+          "id": 969,
+          "qty": 3
+        }
+      ],
+      "zeny": 20000,
+      "npc": "Nehris#1",
+      "map": "yuno_in03",
+      "x": 20,
+      "y": 18,
+      "_name": "Crown of Ancient Queen"
+    },
+    {
+      "category": "npc",
+      "product": {
+        "id": 5081,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 2249,
+          "qty": 1
+        },
+        {
+          "id": 714,
+          "qty": 1
+        },
+        {
+          "id": 969,
+          "qty": 3
+        }
+      ],
+      "zeny": 40000,
+      "npc": "Nehris#1",
+      "map": "yuno_in03",
+      "x": 20,
+      "y": 18,
+      "_name": "Crown of Mistress"
+    },
+    {
+      "category": "npc",
+      "product": {
+        "id": 5082,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 921,
+          "qty": 300
+        }
+      ],
+      "zeny": 0,
+      "npc": "Ipore#1",
+      "map": "geffen",
+      "x": 67,
+      "y": 87,
+      "_name": "Decorative Mushroom"
+    },
+    {
+      "category": "npc",
+      "product": {
+        "id": 5083,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 2244,
+          "qty": 1
+        },
+        {
+          "id": 2209,
+          "qty": 1
+        },
+        {
+          "id": 10007,
+          "qty": 1
+        }
+      ],
+      "zeny": 0,
+      "npc": "Nephia#1",
+      "map": "prontera",
+      "x": 165,
+      "y": 232,
+      "_name": "Red Ribbon"
+    },
+    {
+      "category": "npc",
+      "product": {
+        "id": 5084,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 1026,
+          "qty": 1000
+        },
+        {
+          "id": 7065,
+          "qty": 100
+        },
+        {
+          "id": 945,
+          "qty": 10
+        },
+        {
+          "id": 7030,
+          "qty": 1
+        }
+      ],
+      "zeny": 0,
+      "npc": "Educated Traveller",
+      "map": "morocc",
+      "x": 273,
+      "y": 79,
+      "_name": "Lazy Smokie"
+    },
+    {
+      "category": "npc",
+      "product": {
+        "id": 5086,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 1095,
+          "qty": 3000
+        },
+        {
+          "id": 2288,
+          "qty": 1
+        }
+      ],
+      "zeny": 0,
+      "npc": "Muscle Man#Alarm Mask",
+      "map": "alde_alche",
+      "x": 88,
+      "y": 180,
+      "_name": "Alarm Mask"
+    },
+    {
+      "category": "npc",
+      "product": {
+        "id": 5091,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 10016,
+          "qty": 1
+        },
+        {
+          "id": 714,
+          "qty": 1
+        },
+        {
+          "id": 969,
+          "qty": 3
+        }
+      ],
+      "zeny": 20000,
+      "npc": "Nehris#1",
+      "map": "yuno_in03",
+      "x": 20,
+      "y": 18,
+      "_name": "Decorative Golden Bell"
+    },
+    {
+      "category": "npc",
+      "product": {
+        "id": 5100,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 975,
+          "qty": 1
+        },
+        {
+          "id": 980,
+          "qty": 1
+        },
+        {
+          "id": 2272,
+          "qty": 2
+        },
+        {
+          "id": 2262,
+          "qty": 3
+        },
+        {
+          "id": 7298,
+          "qty": 180
+        },
+        {
+          "id": 7164,
+          "qty": 20
+        }
+      ],
+      "zeny": 0,
+      "npc": "Yakima",
+      "map": "gonryun",
+      "x": 187,
+      "y": 140,
+      "_name": "Sales Banner"
+    },
+    {
+      "category": "npc",
+      "product": {
+        "id": 5107,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 519,
+          "qty": 50
+        },
+        {
+          "id": 7031,
+          "qty": 50
+        },
+        {
+          "id": 548,
+          "qty": 50
+        },
+        {
+          "id": 539,
+          "qty": 50
+        }
+      ],
+      "zeny": 0,
+      "npc": "Kasis#LhzHat",
+      "map": "yuno",
+      "x": 222,
+      "y": 116,
+      "_name": "Crunch Toast"
+    },
+    {
+      "category": "npc",
+      "product": {
+        "id": 5107,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 519,
+          "qty": 50
+        },
+        {
+          "id": 7031,
+          "qty": 50
+        },
+        {
+          "id": 548,
+          "qty": 50
+        },
+        {
+          "id": 539,
+          "qty": 50
+        }
+      ],
+      "zeny": 0,
+      "npc": "Kasis#LhzHat",
+      "map": "yuno",
+      "x": 222,
+      "y": 116,
+      "_name": "Crunch Toast"
+    },
+    {
+      "category": "npc",
+      "product": {
+        "id": 5108,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 7301,
+          "qty": 1887
+        },
+        {
+          "id": 5120,
+          "qty": 1
+        },
+        {
+          "id": 611,
+          "qty": 10
+        }
+      ],
+      "zeny": 1887,
+      "npc": "Strange Guy#LhzHat",
+      "map": "lighthalzen",
+      "x": 143,
+      "y": 68,
+      "_name": "Renown Detective's Cap"
+    },
+    {
+      "category": "npc",
+      "product": {
+        "id": 5108,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 7301,
+          "qty": 1887
+        },
+        {
+          "id": 5120,
+          "qty": 1
+        },
+        {
+          "id": 611,
+          "qty": 10
+        }
+      ],
+      "zeny": 1887,
+      "npc": "Strange Guy#LhzHat",
+      "map": "lighthalzen",
+      "x": 143,
+      "y": 68,
+      "_name": "Renown Detective's Cap"
+    },
+    {
+      "category": "npc",
+      "product": {
+        "id": 5109,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 10015,
+          "qty": 1
+        },
+        {
+          "id": 10007,
+          "qty": 1
+        },
+        {
+          "id": 975,
+          "qty": 1
+        },
+        {
+          "id": 5032,
+          "qty": 1
+        }
+      ],
+      "zeny": 50000,
+      "npc": "Relaxed-Looking Lady",
+      "map": "lighthalzen",
+      "x": 182,
+      "y": 89,
+      "_name": "Red Bonnet"
+    },
+    {
+      "category": "npc",
+      "product": {
+        "id": 5109,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 10015,
+          "qty": 1
+        },
+        {
+          "id": 10007,
+          "qty": 1
+        },
+        {
+          "id": 975,
+          "qty": 1
+        },
+        {
+          "id": 5032,
+          "qty": 1
+        }
+      ],
+      "zeny": 50000,
+      "npc": "Relaxed-Looking Lady",
+      "map": "lighthalzen",
+      "x": 182,
+      "y": 89,
+      "_name": "Red Bonnet"
+    },
+    {
+      "category": "npc",
+      "product": {
+        "id": 5110,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 526,
+          "qty": 1
+        },
+        {
+          "id": 7270,
+          "qty": 1
+        },
+        {
+          "id": 941,
+          "qty": 1
+        },
+        {
+          "id": 10004,
+          "qty": 1
+        }
+      ],
+      "zeny": 0,
+      "npc": "Kid#LhzHat",
+      "map": "lighthalzen",
+      "x": 360,
+      "y": 313,
+      "_name": "Baby Pacifier"
+    },
+    {
+      "category": "npc",
+      "product": {
+        "id": 5115,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 983,
+          "qty": 1
+        },
+        {
+          "id": 7267,
+          "qty": 999
+        },
+        {
+          "id": 749,
+          "qty": 1
+        }
+      ],
+      "zeny": 50000,
+      "npc": "Metelle#LhzHat",
+      "map": "einbech",
+      "x": 70,
+      "y": 222,
+      "_name": "Winter Hat"
+    },
+    {
+      "category": "npc",
+      "product": {
+        "id": 5117,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 731,
+          "qty": 10
+        },
+        {
+          "id": 748,
+          "qty": 3
+        },
+        {
+          "id": 982,
+          "qty": 1
+        }
+      ],
+      "zeny": 50000,
+      "npc": "Margaret Mary#LhzHat",
+      "map": "lhz_in02",
+      "x": 91,
+      "y": 38,
+      "_name": "Mystic Rose"
+    },
+    {
+      "category": "npc",
+      "product": {
+        "id": 5129,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 5067,
+          "qty": 1
+        },
+        {
+          "id": 916,
+          "qty": 920
+        },
+        {
+          "id": 925,
+          "qty": 310
+        }
+      ],
+      "zeny": 0,
+      "npc": "Yakima",
+      "map": "gonryun",
+      "x": 187,
+      "y": 140,
+      "_name": "Bird Nest"
+    },
+    {
+      "category": "npc",
+      "product": {
+        "id": 5130,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 5098,
+          "qty": 1
+        },
+        {
+          "id": 1030,
+          "qty": 10
+        },
+        {
+          "id": 1029,
+          "qty": 30
+        },
+        {
+          "id": 7267,
+          "qty": 300
+        }
+      ],
+      "zeny": 0,
+      "npc": "Yakima",
+      "map": "gonryun",
+      "x": 187,
+      "y": 140,
+      "_name": "Lion Mask"
+    },
+    {
+      "category": "npc",
+      "product": {
+        "id": 5169,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 1049,
+          "qty": 20
+        },
+        {
+          "id": 1059,
+          "qty": 500
+        },
+        {
+          "id": 1054,
+          "qty": 2
+        },
+        {
+          "id": 1024,
+          "qty": 100
+        }
+      ],
+      "zeny": 0,
+      "npc": "Chungwolmang",
+      "map": "payon",
+      "x": 135,
+      "y": 320,
+      "_name": "Bride Mask"
+    },
+    {
+      "category": "npc",
+      "product": {
+        "id": 5170,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 5172,
+          "qty": 1
+        },
+        {
+          "id": 7063,
+          "qty": 100
+        },
+        {
+          "id": 982,
+          "qty": 1
+        }
+      ],
+      "zeny": 0,
+      "npc": "Sakjul",
+      "map": "rachel",
+      "x": 152,
+      "y": 131,
+      "_name": "Feather Beret"
+    },
+    {
+      "category": "npc",
+      "product": {
+        "id": 5173,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 954,
+          "qty": 300
+        },
+        {
+          "id": 733,
+          "qty": 5
+        },
+        {
+          "id": 983,
+          "qty": 1
+        },
+        {
+          "id": 2221,
+          "qty": 1
+        }
+      ],
+      "zeny": 0,
+      "npc": "Han Garam",
+      "map": "payon_in03",
+      "x": 139,
+      "y": 124,
+      "_name": "Magistrate Hat"
+    },
+    {
+      "category": "npc",
+      "product": {
+        "id": 5174,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 954,
+          "qty": 300
+        },
+        {
+          "id": 733,
+          "qty": 5
+        },
+        {
+          "id": 975,
+          "qty": 1
+        },
+        {
+          "id": 7166,
+          "qty": 50
+        }
+      ],
+      "zeny": 0,
+      "npc": "Han Garam",
+      "map": "payon_in03",
+      "x": 139,
+      "y": 124,
+      "_name": "Ayam"
+    },
+    {
+      "category": "npc",
+      "product": {
+        "id": 5175,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 983,
+          "qty": 1
+        },
+        {
+          "id": 7111,
+          "qty": 100
+        },
+        {
+          "id": 938,
+          "qty": 99
+        }
+      ],
+      "zeny": 100000,
+      "npc": "?",
+      "map": "rachel",
+      "x": 91,
+      "y": 273,
+      "_name": "Censor Bar"
+    },
+    {
+      "category": "npc",
+      "product": {
+        "id": 5176,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 7015,
+          "qty": 20
+        },
+        {
+          "id": 952,
+          "qty": 100
+        },
+        {
+          "id": 1028,
+          "qty": 100
+        }
+      ],
+      "zeny": 0,
+      "npc": "Chungwolmang",
+      "map": "payon",
+      "x": 135,
+      "y": 320,
+      "_name": "Hahoe Mask"
+    },
+    {
+      "category": "npc",
+      "product": {
+        "id": 5177,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 1048,
+          "qty": 500
+        },
+        {
+          "id": 1053,
+          "qty": 2
+        },
+        {
+          "id": 980,
+          "qty": 1
+        }
+      ],
+      "zeny": 0,
+      "npc": "Chungwolmang",
+      "map": "payon",
+      "x": 135,
+      "y": 320,
+      "_name": "Mythical Lion Mask"
+    },
+    {
+      "category": "npc",
+      "product": {
+        "id": 5243,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 1022,
+          "qty": 20
+        },
+        {
+          "id": 7038,
+          "qty": 10
+        },
+        {
+          "id": 7166,
+          "qty": 10
+        },
+        {
+          "id": 7065,
+          "qty": 20
+        },
+        {
+          "id": 7217,
+          "qty": 1
+        }
+      ],
+      "zeny": 0,
+      "npc": "#nowinterplz",
+      "map": "moscovia",
+      "x": 211,
+      "y": 93,
+      "_name": "Shafka"
+    },
+    {
+      "category": "npc",
+      "product": {
+        "id": 5374,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 6004,
+          "qty": 1
+        },
+        {
+          "id": 2256,
+          "qty": 1
+        },
+        {
+          "id": 7799,
+          "qty": 30
+        },
+        {
+          "id": 7798,
+          "qty": 50
+        }
+      ],
+      "zeny": 990000,
+      "npc": "Rust Blackhand#edq",
+      "map": "prt_monk",
+      "x": 261,
+      "y": 91,
+      "_name": "Gigantic Majestic Goat"
+    },
+    {
+      "category": "npc",
+      "product": {
+        "id": 5436,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 10007,
+          "qty": 1
+        },
+        {
+          "id": 1032,
+          "qty": 1000
+        }
+      ],
+      "zeny": 0,
+      "npc": "Trainee#2008hat01",
+      "map": "in_orcs01",
+      "x": 119,
+      "y": 106,
+      "_name": "Bride's Corolla"
+    },
+    {
+      "category": "npc",
+      "product": {
+        "id": 5438,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 2250,
+          "qty": 1
+        },
+        {
+          "id": 979,
+          "qty": 1
+        }
+      ],
+      "zeny": 0,
+      "npc": "Trainee#2008hat01",
+      "map": "morocc_in",
+      "x": 137,
+      "y": 102,
+      "_name": "Cute Green Ribbon"
+    },
+    {
+      "category": "npc",
+      "product": {
+        "id": 5438,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 5441,
+          "qty": 1
+        },
+        {
+          "id": 979,
+          "qty": 1
+        }
+      ],
+      "zeny": 0,
+      "npc": "Trainee#2008hat01",
+      "map": "morocc_in",
+      "x": 137,
+      "y": 102,
+      "_name": "Cute Green Ribbon"
+    },
+    {
+      "category": "npc",
+      "product": {
+        "id": 5438,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 5440,
+          "qty": 1
+        },
+        {
+          "id": 979,
+          "qty": 1
+        }
+      ],
+      "zeny": 0,
+      "npc": "Trainee#2008hat01",
+      "map": "morocc_in",
+      "x": 137,
+      "y": 102,
+      "_name": "Cute Green Ribbon"
+    },
+    {
+      "category": "npc",
+      "product": {
+        "id": 5438,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 5439,
+          "qty": 1
+        },
+        {
+          "id": 979,
+          "qty": 1
+        }
+      ],
+      "zeny": 0,
+      "npc": "Trainee#2008hat01",
+      "map": "morocc_in",
+      "x": 137,
+      "y": 102,
+      "_name": "Cute Green Ribbon"
+    },
+    {
+      "category": "npc",
+      "product": {
+        "id": 5439,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 2250,
+          "qty": 1
+        },
+        {
+          "id": 975,
+          "qty": 1
+        }
+      ],
+      "zeny": 0,
+      "npc": "Trainee#2008hat01",
+      "map": "morocc_in",
+      "x": 137,
+      "y": 102,
+      "_name": "Cute Red Ribbon"
+    },
+    {
+      "category": "npc",
+      "product": {
+        "id": 5439,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 5441,
+          "qty": 1
+        },
+        {
+          "id": 975,
+          "qty": 1
+        }
+      ],
+      "zeny": 0,
+      "npc": "Trainee#2008hat01",
+      "map": "morocc_in",
+      "x": 137,
+      "y": 102,
+      "_name": "Cute Red Ribbon"
+    },
+    {
+      "category": "npc",
+      "product": {
+        "id": 5439,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 5440,
+          "qty": 1
+        },
+        {
+          "id": 975,
+          "qty": 1
+        }
+      ],
+      "zeny": 0,
+      "npc": "Trainee#2008hat01",
+      "map": "morocc_in",
+      "x": 137,
+      "y": 102,
+      "_name": "Cute Red Ribbon"
+    },
+    {
+      "category": "npc",
+      "product": {
+        "id": 5439,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 5438,
+          "qty": 1
+        },
+        {
+          "id": 975,
+          "qty": 1
+        }
+      ],
+      "zeny": 0,
+      "npc": "Trainee#2008hat01",
+      "map": "morocc_in",
+      "x": 137,
+      "y": 102,
+      "_name": "Cute Red Ribbon"
+    },
+    {
+      "category": "npc",
+      "product": {
+        "id": 5440,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 2250,
+          "qty": 1
+        },
+        {
+          "id": 978,
+          "qty": 1
+        }
+      ],
+      "zeny": 0,
+      "npc": "Trainee#2008hat01",
+      "map": "morocc_in",
+      "x": 137,
+      "y": 102,
+      "_name": "Cute Blue Ribbon"
+    },
+    {
+      "category": "npc",
+      "product": {
+        "id": 5440,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 5441,
+          "qty": 1
+        },
+        {
+          "id": 978,
+          "qty": 1
+        }
+      ],
+      "zeny": 0,
+      "npc": "Trainee#2008hat01",
+      "map": "morocc_in",
+      "x": 137,
+      "y": 102,
+      "_name": "Cute Blue Ribbon"
+    },
+    {
+      "category": "npc",
+      "product": {
+        "id": 5440,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 5439,
+          "qty": 1
+        },
+        {
+          "id": 978,
+          "qty": 1
+        }
+      ],
+      "zeny": 0,
+      "npc": "Trainee#2008hat01",
+      "map": "morocc_in",
+      "x": 137,
+      "y": 102,
+      "_name": "Cute Blue Ribbon"
+    },
+    {
+      "category": "npc",
+      "product": {
+        "id": 5440,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 5438,
+          "qty": 1
+        },
+        {
+          "id": 978,
+          "qty": 1
+        }
+      ],
+      "zeny": 0,
+      "npc": "Trainee#2008hat01",
+      "map": "morocc_in",
+      "x": 137,
+      "y": 102,
+      "_name": "Cute Blue Ribbon"
+    },
+    {
+      "category": "npc",
+      "product": {
+        "id": 5441,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 2250,
+          "qty": 1
+        },
+        {
+          "id": 982,
+          "qty": 1
+        }
+      ],
+      "zeny": 0,
+      "npc": "Trainee#2008hat01",
+      "map": "morocc_in",
+      "x": 137,
+      "y": 102,
+      "_name": "Cute White Ribbon"
+    },
+    {
+      "category": "npc",
+      "product": {
+        "id": 5441,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 5440,
+          "qty": 1
+        },
+        {
+          "id": 982,
+          "qty": 1
+        }
+      ],
+      "zeny": 0,
+      "npc": "Trainee#2008hat01",
+      "map": "morocc_in",
+      "x": 137,
+      "y": 102,
+      "_name": "Cute White Ribbon"
+    },
+    {
+      "category": "npc",
+      "product": {
+        "id": 5441,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 5439,
+          "qty": 1
+        },
+        {
+          "id": 982,
+          "qty": 1
+        }
+      ],
+      "zeny": 0,
+      "npc": "Trainee#2008hat01",
+      "map": "morocc_in",
+      "x": 137,
+      "y": 102,
+      "_name": "Cute White Ribbon"
+    },
+    {
+      "category": "npc",
+      "product": {
+        "id": 5441,
+        "qty": 1
+      },
+      "materials": [
+        {
+          "id": 5438,
+          "qty": 1
+        },
+        {
+          "id": 982,
+          "qty": 1
+        }
+      ],
+      "zeny": 0,
+      "npc": "Trainee#2008hat01",
+      "map": "morocc_in",
+      "x": 137,
+      "y": 102,
+      "_name": "Cute White Ribbon"
+    }
+  ]
+}

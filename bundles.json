@@ -1,0 +1,11 @@
+{
+	"_comment": "One entry per published bundle. `layers` lists the override directories to stack, in order — a later layer shadows an earlier one. Add a directory + an entry here to publish another server's DB.",
+	"rathena-pre-re": {
+		"description": "Stock rAthena pre-renewal, plus the recipes and quests the script parsers drop as orphans. No server-specific content.",
+		"layers": ["rathena-classic"]
+	},
+	"cyro": {
+		"description": "rathena-pre-re plus cyro's own NPCs (Hat Maker).",
+		"layers": ["rathena-classic", "cyro"]
+	}
+}
