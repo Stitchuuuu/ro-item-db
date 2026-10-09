@@ -1,0 +1,10 @@
+{
+  "flavour": "pre-re",
+  "source": "data.grf (v0x200)",
+  "generatedAt": "2026-06-27T13:10:33.077Z",
+  "filterApplied": "default-renewal-strip",
+  "totalEntries": 34084,
+  "totalBytes": 4082918192,
+  "gzBytes": 219085,
+  "sha1": "2fb4c0604497e7950949257782b4a0671c91c9fa"
+}

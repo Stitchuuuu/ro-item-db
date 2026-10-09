@@ -48,6 +48,16 @@ merge client-side.
 (item counts, recipe counts, the rAthena commit it was built from, build timestamp) so
 you can tell what changed without downloading anything.
 
+## Asset list (`rocache/`)
+
+Not part of the item database: `rocache/pre-re.json.gz` is the list of files in a
+pre-renewal `data.grf` (path + size per entry), used by roBrowser's Rocache plugin to
+download the client assets in bulk. It is hosted here for the same pinned jsDelivr
+URL. `rocache/pre-re.meta.json` carries its counts and sha1.
+
+It is generated from a GRF, not from rAthena, by
+`robrowser/tools/v3/plugins/rocache/tools/build-asset-list.mjs`.
+
 ## Editing the data by hand
 
 Most of the database is derived mechanically from rAthena's `.yml` and `.txt` files.
