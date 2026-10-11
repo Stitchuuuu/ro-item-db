@@ -58,6 +58,16 @@ URL. `rocache/pre-re.meta.json` carries its counts and sha1.
 It is generated from a GRF, not from rAthena, by
 `robrowser/tools/v3/plugins/rocache/tools/build-asset-list.mjs`.
 
+## Respawn database (`respawn-radar/`)
+
+Not part of the item database either: `respawn-radar/respawn-db.json.gz` is the
+pre-renewal MVP / mini-boss respawn table (spawn lines, respawn windows, and the
+"tells" — slaves only one boss summons, seen where they never spawn naturally), used
+by roBrowser's RespawnRadar plugin. Same pinned jsDelivr URL, same fallback.
+
+It is generated from rAthena's `npc/` spawn scripts and `mob_skill_db.txt` by
+`robrowser/tools/v3/scripts/build-respawn-db.mjs`.
+
 ## Editing the data by hand
 
 Most of the database is derived mechanically from rAthena's `.yml` and `.txt` files.
