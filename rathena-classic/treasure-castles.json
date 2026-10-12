@@ -1,0 +1,325 @@
+{
+  "_comment": "mobId -> castle for the pre-re WoE First-Edition \"Treasure Chest\" mobs (1324-1363). Derived from npc/guild/agit_main.txt OnClock0001 (set .@treasurebox / setarray .@treasurex/.@treasurey) + db/pre-re/castle_db.yml (Map -> Name). Two ids per castle: the even-index box (.@treasurebox) and the odd-index box (.@treasurebox+1) alternate by spawn slot parity. room is the (x,y) of the first slot that id actually spawns at (slot 0 for the even id, slot 1 for the odd id) - a real spawn point, not a guessed centroid. Re-derived and checked by test/treasure-castles.test.js against the same snapshot - keep both in sync if rAthena renumbers a castle.",
+  "mobCastles": {
+    "1324": {
+      "map": "aldeg_cas01",
+      "castleName": "Neuschwanstein",
+      "room": {
+        "x": 115,
+        "y": 226
+      }
+    },
+    "1325": {
+      "map": "aldeg_cas01",
+      "castleName": "Neuschwanstein",
+      "room": {
+        "x": 122,
+        "y": 226
+      }
+    },
+    "1326": {
+      "map": "aldeg_cas02",
+      "castleName": "Hohenschwangau",
+      "room": {
+        "x": 134,
+        "y": 231
+      }
+    },
+    "1327": {
+      "map": "aldeg_cas02",
+      "castleName": "Hohenschwangau",
+      "room": {
+        "x": 135,
+        "y": 231
+      }
+    },
+    "1328": {
+      "map": "aldeg_cas03",
+      "castleName": "Nuernberg",
+      "room": {
+        "x": 224,
+        "y": 269
+      }
+    },
+    "1329": {
+      "map": "aldeg_cas03",
+      "castleName": "Nuernberg",
+      "room": {
+        "x": 225,
+        "y": 269
+      }
+    },
+    "1330": {
+      "map": "aldeg_cas04",
+      "castleName": "Wuerzburg",
+      "room": {
+        "x": 84,
+        "y": 13
+      }
+    },
+    "1331": {
+      "map": "aldeg_cas04",
+      "castleName": "Wuerzburg",
+      "room": {
+        "x": 85,
+        "y": 13
+      }
+    },
+    "1332": {
+      "map": "aldeg_cas05",
+      "castleName": "Rothenburg",
+      "room": {
+        "x": 61,
+        "y": 12
+      }
+    },
+    "1333": {
+      "map": "aldeg_cas05",
+      "castleName": "Rothenburg",
+      "room": {
+        "x": 62,
+        "y": 12
+      }
+    },
+    "1334": {
+      "map": "gefg_cas01",
+      "castleName": "Repherion",
+      "room": {
+        "x": 153,
+        "y": 113
+      }
+    },
+    "1335": {
+      "map": "gefg_cas01",
+      "castleName": "Repherion",
+      "room": {
+        "x": 154,
+        "y": 113
+      }
+    },
+    "1336": {
+      "map": "gefg_cas02",
+      "castleName": "Eeyolbriggar",
+      "room": {
+        "x": 139,
+        "y": 115
+      }
+    },
+    "1337": {
+      "map": "gefg_cas02",
+      "castleName": "Eeyolbriggar",
+      "room": {
+        "x": 140,
+        "y": 115
+      }
+    },
+    "1338": {
+      "map": "gefg_cas03",
+      "castleName": "Yesnelph",
+      "room": {
+        "x": 269,
+        "y": 291
+      }
+    },
+    "1339": {
+      "map": "gefg_cas03",
+      "castleName": "Yesnelph",
+      "room": {
+        "x": 270,
+        "y": 291
+      }
+    },
+    "1340": {
+      "map": "gefg_cas04",
+      "castleName": "Bergel",
+      "room": {
+        "x": 115,
+        "y": 119
+      }
+    },
+    "1341": {
+      "map": "gefg_cas04",
+      "castleName": "Bergel",
+      "room": {
+        "x": 116,
+        "y": 119
+      }
+    },
+    "1342": {
+      "map": "gefg_cas05",
+      "castleName": "Mersetzdeitz",
+      "room": {
+        "x": 143,
+        "y": 110
+      }
+    },
+    "1343": {
+      "map": "gefg_cas05",
+      "castleName": "Mersetzdeitz",
+      "room": {
+        "x": 144,
+        "y": 110
+      }
+    },
+    "1344": {
+      "map": "payg_cas01",
+      "castleName": "Bright Arbor",
+      "room": {
+        "x": 289,
+        "y": 10
+      }
+    },
+    "1345": {
+      "map": "payg_cas01",
+      "castleName": "Bright Arbor",
+      "room": {
+        "x": 292,
+        "y": 10
+      }
+    },
+    "1346": {
+      "map": "payg_cas02",
+      "castleName": "Scarlet Palace",
+      "room": {
+        "x": 143,
+        "y": 146
+      }
+    },
+    "1347": {
+      "map": "payg_cas02",
+      "castleName": "Scarlet Palace",
+      "room": {
+        "x": 146,
+        "y": 146
+      }
+    },
+    "1348": {
+      "map": "payg_cas03",
+      "castleName": "Holy Shadow",
+      "room": {
+        "x": 158,
+        "y": 169
+      }
+    },
+    "1349": {
+      "map": "payg_cas03",
+      "castleName": "Holy Shadow",
+      "room": {
+        "x": 159,
+        "y": 169
+      }
+    },
+    "1350": {
+      "map": "payg_cas04",
+      "castleName": "Sacred Altar",
+      "room": {
+        "x": 146,
+        "y": 48
+      }
+    },
+    "1351": {
+      "map": "payg_cas04",
+      "castleName": "Sacred Altar",
+      "room": {
+        "x": 147,
+        "y": 48
+      }
+    },
+    "1352": {
+      "map": "payg_cas05",
+      "castleName": "Bamboo Grove Hill",
+      "room": {
+        "x": 155,
+        "y": 134
+      }
+    },
+    "1353": {
+      "map": "payg_cas05",
+      "castleName": "Bamboo Grove Hill",
+      "room": {
+        "x": 158,
+        "y": 134
+      }
+    },
+    "1354": {
+      "map": "prtg_cas01",
+      "castleName": "Kriemhild",
+      "room": {
+        "x": 10,
+        "y": 209
+      }
+    },
+    "1355": {
+      "map": "prtg_cas01",
+      "castleName": "Kriemhild",
+      "room": {
+        "x": 11,
+        "y": 209
+      }
+    },
+    "1356": {
+      "map": "prtg_cas02",
+      "castleName": "Swanhild",
+      "room": {
+        "x": 201,
+        "y": 228
+      }
+    },
+    "1357": {
+      "map": "prtg_cas02",
+      "castleName": "Swanhild",
+      "room": {
+        "x": 202,
+        "y": 228
+      }
+    },
+    "1358": {
+      "map": "prtg_cas03",
+      "castleName": "Fadhgridh",
+      "room": {
+        "x": 187,
+        "y": 132
+      }
+    },
+    "1359": {
+      "map": "prtg_cas03",
+      "castleName": "Fadhgridh",
+      "room": {
+        "x": 188,
+        "y": 132
+      }
+    },
+    "1360": {
+      "map": "prtg_cas04",
+      "castleName": "Skoegul",
+      "room": {
+        "x": 269,
+        "y": 162
+      }
+    },
+    "1361": {
+      "map": "prtg_cas04",
+      "castleName": "Skoegul",
+      "room": {
+        "x": 270,
+        "y": 162
+      }
+    },
+    "1362": {
+      "map": "prtg_cas05",
+      "castleName": "Gondul",
+      "room": {
+        "x": 275,
+        "y": 178
+      }
+    },
+    "1363": {
+      "map": "prtg_cas05",
+      "castleName": "Gondul",
+      "room": {
+        "x": 276,
+        "y": 178
+      }
+    }
+  }
+}

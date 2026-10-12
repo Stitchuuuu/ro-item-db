@@ -1,0 +1,1122 @@
+{
+	"_comment": "NPCs that sell an item through a script (Zeny debit + getitem) instead of a `shop` line. Frozen from the audit of robrowser/rathena/item-db (src/audit-npc-sales.js + data/npc-sales-audit.json) — regenerate with `node src/audit-npc-sales.js --layer <this file>`, do not edit by hand. `price` is the zeny paid for `qty` items (default 1); `perUnit` marks a price the script multiplies by the quantity the player types.",
+	"sales": [
+		{
+			"itemId": 501,
+			"npc": "Suspicious Guy",
+			"map": "geffen",
+			"x": 146,
+			"y": 148,
+			"price": 500,
+			"perUnit": true,
+			"_source": "npc/cities/geffen.txt:292"
+		},
+		{
+			"itemId": 503,
+			"npc": "Waitress",
+			"map": "jawaii_in",
+			"x": 15,
+			"y": 104,
+			"price": 1000,
+			"_source": "npc/cities/jawaii.txt:769"
+		},
+		{
+			"itemId": 512,
+			"npc": "Apple Merchant",
+			"map": "airplane",
+			"x": 50,
+			"y": 66,
+			"price": 15,
+			"perUnit": true,
+			"_source": "npc/airports/airships.txt:539"
+		},
+		{
+			"itemId": 512,
+			"npc": "Apple Merchant",
+			"map": "airplane_01",
+			"x": 50,
+			"y": 66,
+			"price": 15,
+			"perUnit": true,
+			"_source": "npc/airports/airships.txt:903"
+		},
+		{
+			"itemId": 512,
+			"npc": "Oberu",
+			"map": "einbroch",
+			"x": 173,
+			"y": 229,
+			"price": 20,
+			"_source": "npc/cities/einbroch.txt:104"
+		},
+		{
+			"itemId": 512,
+			"npc": "Khemko",
+			"map": "einbroch",
+			"x": 176,
+			"y": 172,
+			"price": 20,
+			"_source": "npc/cities/einbroch.txt:104"
+		},
+		{
+			"itemId": 512,
+			"npc": "Mark",
+			"map": "einbroch",
+			"x": 218,
+			"y": 198,
+			"price": 20,
+			"_source": "npc/cities/einbroch.txt:104"
+		},
+		{
+			"itemId": 517,
+			"npc": "Waitress",
+			"map": "jawaii_in",
+			"x": 15,
+			"y": 104,
+			"price": 1000,
+			"_source": "npc/cities/jawaii.txt:743"
+		},
+		{
+			"itemId": 536,
+			"npc": "Ice-Cream Maker",
+			"map": "brasilis",
+			"x": 137,
+			"y": 77,
+			"price": 100,
+			"perUnit": true,
+			"_source": "npc/cities/brasilis.txt:150"
+		},
+		{
+			"itemId": 537,
+			"npc": "Box",
+			"map": "kh_vila",
+			"x": 16,
+			"y": 175,
+			"price": 1100,
+			"_source": "npc/quests/kiel_hyre_quest.txt:2230"
+		},
+		{
+			"itemId": 544,
+			"npc": "Sushi Master",
+			"map": "ama_in01",
+			"x": 162,
+			"y": 17,
+			"price": 350,
+			"qty": 10,
+			"_source": "npc/quests/quests_amatsu.txt:1174"
+		},
+		{
+			"itemId": 544,
+			"npc": "Sushi Master",
+			"map": "ama_in01",
+			"x": 162,
+			"y": 17,
+			"price": 37,
+			"_source": "npc/quests/quests_amatsu.txt:1186"
+		},
+		{
+			"itemId": 551,
+			"npc": "Sushi Master",
+			"map": "ama_in01",
+			"x": 162,
+			"y": 17,
+			"price": 700,
+			"qty": 10,
+			"_source": "npc/quests/quests_amatsu.txt:1133"
+		},
+		{
+			"itemId": 551,
+			"npc": "Sushi Master",
+			"map": "ama_in01",
+			"x": 162,
+			"y": 17,
+			"price": 74,
+			"_source": "npc/quests/quests_amatsu.txt:1146"
+		},
+		{
+			"itemId": 555,
+			"npc": "Servant",
+			"map": "payon",
+			"x": 209,
+			"y": 127,
+			"price": 200,
+			"_source": "npc/quests/cooking_quest.txt:2375"
+		},
+		{
+			"itemId": 584,
+			"npc": "Cellette Lavit",
+			"map": "hu_in01",
+			"x": 15,
+			"y": 372,
+			"price": 100,
+			"_source": "npc/quests/quests_hugel.txt:5573"
+		},
+		{
+			"itemId": 612,
+			"npc": "Paul Spanner",
+			"map": "ein_in01",
+			"x": 38,
+			"y": 29,
+			"price": 150,
+			"perUnit": true,
+			"_source": "npc/merchants/refine.txt:422"
+		},
+		{
+			"itemId": 612,
+			"npc": "Christopher",
+			"map": "geffen_in",
+			"x": 110,
+			"y": 172,
+			"price": 150,
+			"perUnit": true,
+			"_source": "npc/merchants/refine.txt:116"
+		},
+		{
+			"itemId": 613,
+			"npc": "Paul Spanner",
+			"map": "ein_in01",
+			"x": 38,
+			"y": 29,
+			"price": 1000,
+			"perUnit": true,
+			"_source": "npc/merchants/refine.txt:422"
+		},
+		{
+			"itemId": 613,
+			"npc": "Christopher",
+			"map": "geffen_in",
+			"x": 110,
+			"y": 172,
+			"price": 1000,
+			"_source": "npc/merchants/refine.txt:127"
+		},
+		{
+			"itemId": 614,
+			"npc": "Paul Spanner",
+			"map": "ein_in01",
+			"x": 38,
+			"y": 29,
+			"price": 3000,
+			"perUnit": true,
+			"_source": "npc/merchants/refine.txt:422"
+		},
+		{
+			"itemId": 614,
+			"npc": "Christopher",
+			"map": "geffen_in",
+			"x": 110,
+			"y": 172,
+			"price": 3000,
+			"_source": "npc/merchants/refine.txt:138"
+		},
+		{
+			"itemId": 615,
+			"npc": "Paul Spanner",
+			"map": "ein_in01",
+			"x": 38,
+			"y": 29,
+			"price": 5000,
+			"perUnit": true,
+			"_source": "npc/merchants/refine.txt:422"
+		},
+		{
+			"itemId": 615,
+			"npc": "Christopher",
+			"map": "geffen_in",
+			"x": 110,
+			"y": 172,
+			"price": 5000,
+			"_source": "npc/merchants/refine.txt:149"
+		},
+		{
+			"itemId": 681,
+			"npc": "Honeymoon Helper",
+			"map": "jawaii",
+			"x": 214,
+			"y": 168,
+			"price": 50000,
+			"_source": "npc/cities/jawaii.txt:419"
+		},
+		{
+			"itemId": 732,
+			"npc": "Blacksmith Miner",
+			"map": "mjolnir_02",
+			"x": 85,
+			"y": 362,
+			"price": 55000,
+			"perUnit": true,
+			"_source": "npc/other/comodo_gambling.txt:548"
+		},
+		{
+			"itemId": 986,
+			"npc": "Paul Spanner",
+			"map": "ein_in01",
+			"x": 38,
+			"y": 29,
+			"price": 30000,
+			"_source": "npc/merchants/refine.txt:317"
+		},
+		{
+			"itemId": 986,
+			"npc": "Christopher",
+			"map": "geffen_in",
+			"x": 110,
+			"y": 172,
+			"price": 30000,
+			"_source": "npc/merchants/refine.txt:41"
+		},
+		{
+			"itemId": 987,
+			"npc": "Paul Spanner",
+			"map": "ein_in01",
+			"x": 38,
+			"y": 29,
+			"price": 120000,
+			"_source": "npc/merchants/refine.txt:329"
+		},
+		{
+			"itemId": 987,
+			"npc": "Christopher",
+			"map": "geffen_in",
+			"x": 110,
+			"y": 172,
+			"price": 120000,
+			"_source": "npc/merchants/refine.txt:52"
+		},
+		{
+			"itemId": 988,
+			"npc": "Paul Spanner",
+			"map": "ein_in01",
+			"x": 38,
+			"y": 29,
+			"price": 300000,
+			"_source": "npc/merchants/refine.txt:341"
+		},
+		{
+			"itemId": 988,
+			"npc": "Christopher",
+			"map": "geffen_in",
+			"x": 110,
+			"y": 172,
+			"price": 300000,
+			"_source": "npc/merchants/refine.txt:63"
+		},
+		{
+			"itemId": 1010,
+			"npc": "Kahlamanlith",
+			"map": "alberta_in",
+			"x": 13,
+			"y": 71,
+			"price": 200,
+			"perUnit": true,
+			"_source": "npc/merchants/refine.txt:1073"
+		},
+		{
+			"itemId": 1010,
+			"npc": "Tirehaus",
+			"map": "ein_in01",
+			"x": 15,
+			"y": 87,
+			"price": 200,
+			"perUnit": true,
+			"_source": "npc/merchants/refine.txt:1073"
+		},
+		{
+			"itemId": 1010,
+			"npc": "Paul Spanner",
+			"map": "ein_in01",
+			"x": 38,
+			"y": 29,
+			"price": 200,
+			"perUnit": true,
+			"_source": "npc/merchants/refine.txt:475"
+		},
+		{
+			"itemId": 1010,
+			"npc": "Christopher",
+			"map": "geffen_in",
+			"x": 110,
+			"y": 172,
+			"price": 200,
+			"perUnit": true,
+			"_source": "npc/merchants/refine.txt:197"
+		},
+		{
+			"itemId": 1010,
+			"npc": "Krugg",
+			"map": "lhz_in02",
+			"x": 278,
+			"y": 24,
+			"price": 200,
+			"perUnit": true,
+			"_source": "npc/merchants/refine.txt:1073"
+		},
+		{
+			"itemId": 1010,
+			"npc": "Sade",
+			"map": "morocc_in",
+			"x": 63,
+			"y": 32,
+			"price": 200,
+			"perUnit": true,
+			"_source": "npc/merchants/refine.txt:1073"
+		},
+		{
+			"itemId": 1010,
+			"npc": "Begnahd",
+			"map": "payon",
+			"x": 145,
+			"y": 178,
+			"price": 200,
+			"perUnit": true,
+			"_source": "npc/merchants/refine.txt:1073"
+		},
+		{
+			"itemId": 1010,
+			"npc": "Vurewell",
+			"map": "prt_in",
+			"x": 56,
+			"y": 68,
+			"price": 200,
+			"perUnit": true,
+			"_source": "npc/merchants/refine.txt:1073"
+		},
+		{
+			"itemId": 1010,
+			"npc": "Dilemma",
+			"map": "yuno_in01",
+			"x": 171,
+			"y": 27,
+			"price": 200,
+			"perUnit": true,
+			"_source": "npc/merchants/refine.txt:1073"
+		},
+		{
+			"itemId": 1011,
+			"npc": "Kahlamanlith",
+			"map": "alberta_in",
+			"x": 13,
+			"y": 71,
+			"price": 1000,
+			"perUnit": true,
+			"_source": "npc/merchants/refine.txt:1073"
+		},
+		{
+			"itemId": 1011,
+			"npc": "Tirehaus",
+			"map": "ein_in01",
+			"x": 15,
+			"y": 87,
+			"price": 1000,
+			"perUnit": true,
+			"_source": "npc/merchants/refine.txt:1073"
+		},
+		{
+			"itemId": 1011,
+			"npc": "Paul Spanner",
+			"map": "ein_in01",
+			"x": 38,
+			"y": 29,
+			"price": 1000,
+			"perUnit": true,
+			"_source": "npc/merchants/refine.txt:475"
+		},
+		{
+			"itemId": 1011,
+			"npc": "Christopher",
+			"map": "geffen_in",
+			"x": 110,
+			"y": 172,
+			"price": 1000,
+			"perUnit": true,
+			"_source": "npc/merchants/refine.txt:235"
+		},
+		{
+			"itemId": 1011,
+			"npc": "Krugg",
+			"map": "lhz_in02",
+			"x": 278,
+			"y": 24,
+			"price": 1000,
+			"perUnit": true,
+			"_source": "npc/merchants/refine.txt:1073"
+		},
+		{
+			"itemId": 1011,
+			"npc": "Sade",
+			"map": "morocc_in",
+			"x": 63,
+			"y": 32,
+			"price": 1000,
+			"perUnit": true,
+			"_source": "npc/merchants/refine.txt:1073"
+		},
+		{
+			"itemId": 1011,
+			"npc": "Begnahd",
+			"map": "payon",
+			"x": 145,
+			"y": 178,
+			"price": 1000,
+			"perUnit": true,
+			"_source": "npc/merchants/refine.txt:1073"
+		},
+		{
+			"itemId": 1011,
+			"npc": "Vurewell",
+			"map": "prt_in",
+			"x": 56,
+			"y": 68,
+			"price": 1000,
+			"perUnit": true,
+			"_source": "npc/merchants/refine.txt:1073"
+		},
+		{
+			"itemId": 1011,
+			"npc": "Dilemma",
+			"map": "yuno_in01",
+			"x": 171,
+			"y": 27,
+			"price": 1000,
+			"perUnit": true,
+			"_source": "npc/merchants/refine.txt:1073"
+		},
+		{
+			"itemId": 1026,
+			"npc": "Acorn Dealer",
+			"map": "moscovia",
+			"x": 208,
+			"y": 182,
+			"price": 100,
+			"perUnit": true,
+			"_source": "npc/quests/quests_moscovia.txt:4104"
+		},
+		{
+			"itemId": 1207,
+			"npc": "Suspicious Guy",
+			"map": "geffen",
+			"x": 146,
+			"y": 148,
+			"price": 9400,
+			"perUnit": true,
+			"_source": "npc/cities/geffen.txt:357"
+		},
+		{
+			"itemId": 2501,
+			"npc": "Suspicious Guy",
+			"map": "geffen",
+			"x": 146,
+			"y": 148,
+			"price": 930,
+			"perUnit": true,
+			"_source": "npc/cities/geffen.txt:409"
+		},
+		{
+			"itemId": 6377,
+			"npc": "Purchasing Team",
+			"map": "alberta_in",
+			"x": 58,
+			"y": 52,
+			"price": 200,
+			"perUnit": true,
+			"_source": "npc/merchants/buying_shops.txt:141"
+		},
+		{
+			"itemId": 7040,
+			"npc": "Dance Instructor",
+			"map": "job_duncer",
+			"x": 93,
+			"y": 106,
+			"price": 500000,
+			"_source": "npc/quests/quests_veins.txt:1628"
+		},
+		{
+			"itemId": 7127,
+			"npc": "Guild Dealer",
+			"map": "alde_alche",
+			"x": 24,
+			"y": 188,
+			"price": 100000,
+			"_source": "npc/merchants/alchemist.txt:160"
+		},
+		{
+			"itemId": 7128,
+			"npc": "Guild Dealer",
+			"map": "alde_alche",
+			"x": 24,
+			"y": 188,
+			"price": 100000,
+			"_source": "npc/merchants/alchemist.txt:160"
+		},
+		{
+			"itemId": 7129,
+			"npc": "Guild Dealer",
+			"map": "alde_alche",
+			"x": 24,
+			"y": 188,
+			"price": 100000,
+			"_source": "npc/merchants/alchemist.txt:160"
+		},
+		{
+			"itemId": 7130,
+			"npc": "Guild Dealer",
+			"map": "alde_alche",
+			"x": 24,
+			"y": 188,
+			"price": 100000,
+			"_source": "npc/merchants/alchemist.txt:160"
+		},
+		{
+			"itemId": 7131,
+			"npc": "Guild Dealer",
+			"map": "alde_alche",
+			"x": 24,
+			"y": 188,
+			"price": 100000,
+			"_source": "npc/merchants/alchemist.txt:160"
+		},
+		{
+			"itemId": 7132,
+			"npc": "Guild Dealer",
+			"map": "alde_alche",
+			"x": 24,
+			"y": 188,
+			"price": 100000,
+			"_source": "npc/merchants/alchemist.txt:160"
+		},
+		{
+			"itemId": 7133,
+			"npc": "Guild Dealer",
+			"map": "alde_alche",
+			"x": 24,
+			"y": 188,
+			"price": 240000,
+			"_source": "npc/merchants/alchemist.txt:160"
+		},
+		{
+			"itemId": 7134,
+			"npc": "Guild Dealer",
+			"map": "alde_alche",
+			"x": 24,
+			"y": 188,
+			"price": 8,
+			"perUnit": true,
+			"_source": "npc/merchants/alchemist.txt:84"
+		},
+		{
+			"itemId": 7144,
+			"npc": "Guild Dealer",
+			"map": "alde_alche",
+			"x": 24,
+			"y": 188,
+			"price": 100000,
+			"_source": "npc/merchants/alchemist.txt:160"
+		},
+		{
+			"itemId": 7570,
+			"npc": "Nemma",
+			"map": "ra_temple",
+			"x": 116,
+			"y": 174,
+			"price": 50000,
+			"perUnit": true,
+			"_source": "npc/quests/quests_rachel.txt:4199"
+		},
+		{
+			"itemId": 12018,
+			"npc": "Party Supplies Shop",
+			"map": "hu_in01",
+			"x": 23,
+			"y": 311,
+			"price": 500,
+			"qty": 5,
+			"_source": "npc/cities/hugel.txt:160"
+		},
+		{
+			"itemId": 12112,
+			"npc": "Bartender",
+			"map": "morocc_in",
+			"x": 166,
+			"y": 76,
+			"price": 1000,
+			"_source": "npc/quests/skills/bard_skills.txt:1208"
+		},
+		{
+			"itemId": 12112,
+			"npc": "Bar Master",
+			"map": "que_job01",
+			"x": 82,
+			"y": 95,
+			"price": 800,
+			"_source": "npc/quests/quests_13_1.txt:12051"
+		},
+		{
+			"itemId": 12112,
+			"npc": "Bar Master",
+			"map": "que_job01",
+			"x": 82,
+			"y": 95,
+			"price": 1000,
+			"_source": "npc/quests/quests_13_1.txt:12069"
+		},
+		{
+			"itemId": 12113,
+			"npc": "Bartender",
+			"map": "morocc_in",
+			"x": 166,
+			"y": 76,
+			"price": 1000,
+			"_source": "npc/quests/skills/bard_skills.txt:1238"
+		},
+		{
+			"itemId": 12113,
+			"npc": "Bar Master",
+			"map": "que_job01",
+			"x": 82,
+			"y": 95,
+			"price": 800,
+			"_source": "npc/quests/quests_13_1.txt:12095"
+		},
+		{
+			"itemId": 12113,
+			"npc": "Bar Master",
+			"map": "que_job01",
+			"x": 82,
+			"y": 95,
+			"price": 1000,
+			"_source": "npc/quests/quests_13_1.txt:12112"
+		},
+		{
+			"itemId": 12125,
+			"npc": "Madeleine Chu",
+			"map": "prt_castle",
+			"x": 45,
+			"y": 35,
+			"price": 500,
+			"perUnit": true,
+			"_source": "npc/quests/cooking_quest.txt:2116"
+		},
+		{
+			"itemId": 12126,
+			"npc": "Madeleine Chu",
+			"map": "prt_castle",
+			"x": 45,
+			"y": 35,
+			"price": 1000,
+			"perUnit": true,
+			"_source": "npc/quests/cooking_quest.txt:2116"
+		},
+		{
+			"itemId": 12153,
+			"npc": "Mercenary Manager",
+			"map": "pay_arche",
+			"x": 99,
+			"y": 167,
+			"price": 7000,
+			"_source": "npc/other/mercenary_rent.txt:102"
+		},
+		{
+			"itemId": 12154,
+			"npc": "Mercenary Manager",
+			"map": "pay_arche",
+			"x": 99,
+			"y": 167,
+			"price": 14000,
+			"_source": "npc/other/mercenary_rent.txt:102"
+		},
+		{
+			"itemId": 12155,
+			"npc": "Mercenary Manager",
+			"map": "pay_arche",
+			"x": 99,
+			"y": 167,
+			"price": 21000,
+			"_source": "npc/other/mercenary_rent.txt:102"
+		},
+		{
+			"itemId": 12156,
+			"npc": "Mercenary Manager",
+			"map": "pay_arche",
+			"x": 99,
+			"y": 167,
+			"price": 28000,
+			"_source": "npc/other/mercenary_rent.txt:102"
+		},
+		{
+			"itemId": 12157,
+			"npc": "Mercenary Manager",
+			"map": "pay_arche",
+			"x": 99,
+			"y": 167,
+			"price": 35000,
+			"_source": "npc/other/mercenary_rent.txt:102"
+		},
+		{
+			"itemId": 12158,
+			"npc": "Mercenary Manager",
+			"map": "pay_arche",
+			"x": 99,
+			"y": 167,
+			"price": 42000,
+			"_source": "npc/other/mercenary_rent.txt:102"
+		},
+		{
+			"itemId": 12159,
+			"npc": "Mercenary Manager",
+			"map": "pay_arche",
+			"x": 99,
+			"y": 167,
+			"price": 49000,
+			"_source": "npc/other/mercenary_rent.txt:102"
+		},
+		{
+			"itemId": 12160,
+			"npc": "Mercenary Manager",
+			"map": "pay_arche",
+			"x": 99,
+			"y": 167,
+			"price": 56000,
+			"_source": "npc/other/mercenary_rent.txt:102"
+		},
+		{
+			"itemId": 12161,
+			"npc": "Mercenary Manager",
+			"map": "pay_arche",
+			"x": 99,
+			"y": 167,
+			"price": 63000,
+			"_source": "npc/other/mercenary_rent.txt:102"
+		},
+		{
+			"itemId": 12163,
+			"npc": "Mercenary Manager",
+			"map": "izlude",
+			"x": 47,
+			"y": 139,
+			"price": 7000,
+			"_source": "npc/other/mercenary_rent.txt:102"
+		},
+		{
+			"itemId": 12164,
+			"npc": "Mercenary Manager",
+			"map": "izlude",
+			"x": 47,
+			"y": 139,
+			"price": 14000,
+			"_source": "npc/other/mercenary_rent.txt:102"
+		},
+		{
+			"itemId": 12165,
+			"npc": "Mercenary Manager",
+			"map": "izlude",
+			"x": 47,
+			"y": 139,
+			"price": 21000,
+			"_source": "npc/other/mercenary_rent.txt:102"
+		},
+		{
+			"itemId": 12166,
+			"npc": "Mercenary Manager",
+			"map": "izlude",
+			"x": 47,
+			"y": 139,
+			"price": 28000,
+			"_source": "npc/other/mercenary_rent.txt:102"
+		},
+		{
+			"itemId": 12167,
+			"npc": "Mercenary Manager",
+			"map": "izlude",
+			"x": 47,
+			"y": 139,
+			"price": 35000,
+			"_source": "npc/other/mercenary_rent.txt:102"
+		},
+		{
+			"itemId": 12168,
+			"npc": "Mercenary Manager",
+			"map": "izlude",
+			"x": 47,
+			"y": 139,
+			"price": 42000,
+			"_source": "npc/other/mercenary_rent.txt:102"
+		},
+		{
+			"itemId": 12169,
+			"npc": "Mercenary Manager",
+			"map": "izlude",
+			"x": 47,
+			"y": 139,
+			"price": 49000,
+			"_source": "npc/other/mercenary_rent.txt:102"
+		},
+		{
+			"itemId": 12170,
+			"npc": "Mercenary Manager",
+			"map": "izlude",
+			"x": 47,
+			"y": 139,
+			"price": 56000,
+			"_source": "npc/other/mercenary_rent.txt:102"
+		},
+		{
+			"itemId": 12171,
+			"npc": "Mercenary Manager",
+			"map": "izlude",
+			"x": 47,
+			"y": 139,
+			"price": 63000,
+			"_source": "npc/other/mercenary_rent.txt:102"
+		},
+		{
+			"itemId": 12173,
+			"npc": "Mercenary Manager",
+			"map": "prontera",
+			"x": 41,
+			"y": 337,
+			"price": 7000,
+			"_source": "npc/other/mercenary_rent.txt:102"
+		},
+		{
+			"itemId": 12174,
+			"npc": "Mercenary Manager",
+			"map": "prontera",
+			"x": 41,
+			"y": 337,
+			"price": 14000,
+			"_source": "npc/other/mercenary_rent.txt:102"
+		},
+		{
+			"itemId": 12175,
+			"npc": "Mercenary Manager",
+			"map": "prontera",
+			"x": 41,
+			"y": 337,
+			"price": 21000,
+			"_source": "npc/other/mercenary_rent.txt:102"
+		},
+		{
+			"itemId": 12176,
+			"npc": "Mercenary Manager",
+			"map": "prontera",
+			"x": 41,
+			"y": 337,
+			"price": 28000,
+			"_source": "npc/other/mercenary_rent.txt:102"
+		},
+		{
+			"itemId": 12177,
+			"npc": "Mercenary Manager",
+			"map": "prontera",
+			"x": 41,
+			"y": 337,
+			"price": 35000,
+			"_source": "npc/other/mercenary_rent.txt:102"
+		},
+		{
+			"itemId": 12178,
+			"npc": "Mercenary Manager",
+			"map": "prontera",
+			"x": 41,
+			"y": 337,
+			"price": 42000,
+			"_source": "npc/other/mercenary_rent.txt:102"
+		},
+		{
+			"itemId": 12179,
+			"npc": "Mercenary Manager",
+			"map": "prontera",
+			"x": 41,
+			"y": 337,
+			"price": 49000,
+			"_source": "npc/other/mercenary_rent.txt:102"
+		},
+		{
+			"itemId": 12180,
+			"npc": "Mercenary Manager",
+			"map": "prontera",
+			"x": 41,
+			"y": 337,
+			"price": 56000,
+			"_source": "npc/other/mercenary_rent.txt:102"
+		},
+		{
+			"itemId": 12181,
+			"npc": "Mercenary Manager",
+			"map": "prontera",
+			"x": 41,
+			"y": 337,
+			"price": 63000,
+			"_source": "npc/other/mercenary_rent.txt:102"
+		},
+		{
+			"itemId": 12184,
+			"npc": "Mercenary Merchant",
+			"map": "izlude",
+			"x": 56,
+			"y": 139,
+			"price": 2500,
+			"perUnit": true,
+			"_source": "npc/other/mercenary_rent.txt:288"
+		},
+		{
+			"itemId": 12184,
+			"npc": "Mercenary Merchant",
+			"map": "pay_arche",
+			"x": 102,
+			"y": 167,
+			"price": 2500,
+			"perUnit": true,
+			"_source": "npc/other/mercenary_rent.txt:288"
+		},
+		{
+			"itemId": 12184,
+			"npc": "Mercenary Merchant",
+			"map": "prontera",
+			"x": 30,
+			"y": 337,
+			"price": 2500,
+			"perUnit": true,
+			"_source": "npc/other/mercenary_rent.txt:288"
+		},
+		{
+			"itemId": 12185,
+			"npc": "Mercenary Merchant",
+			"map": "izlude",
+			"x": 56,
+			"y": 139,
+			"price": 5000,
+			"perUnit": true,
+			"_source": "npc/other/mercenary_rent.txt:288"
+		},
+		{
+			"itemId": 12185,
+			"npc": "Mercenary Merchant",
+			"map": "pay_arche",
+			"x": 102,
+			"y": 167,
+			"price": 5000,
+			"perUnit": true,
+			"_source": "npc/other/mercenary_rent.txt:288"
+		},
+		{
+			"itemId": 12185,
+			"npc": "Mercenary Merchant",
+			"map": "prontera",
+			"x": 30,
+			"y": 337,
+			"price": 5000,
+			"perUnit": true,
+			"_source": "npc/other/mercenary_rent.txt:288"
+		},
+		{
+			"itemId": 12241,
+			"npc": "Mercenary Merchant",
+			"map": "izlude",
+			"x": 56,
+			"y": 139,
+			"price": 800,
+			"perUnit": true,
+			"_source": "npc/other/mercenary_rent.txt:288"
+		},
+		{
+			"itemId": 12241,
+			"npc": "Mercenary Merchant",
+			"map": "pay_arche",
+			"x": 102,
+			"y": 167,
+			"price": 800,
+			"perUnit": true,
+			"_source": "npc/other/mercenary_rent.txt:288"
+		},
+		{
+			"itemId": 12241,
+			"npc": "Mercenary Merchant",
+			"map": "prontera",
+			"x": 30,
+			"y": 337,
+			"price": 800,
+			"perUnit": true,
+			"_source": "npc/other/mercenary_rent.txt:288"
+		},
+		{
+			"itemId": 12242,
+			"npc": "Mercenary Merchant",
+			"map": "izlude",
+			"x": 56,
+			"y": 139,
+			"price": 1500,
+			"perUnit": true,
+			"_source": "npc/other/mercenary_rent.txt:288"
+		},
+		{
+			"itemId": 12242,
+			"npc": "Mercenary Merchant",
+			"map": "pay_arche",
+			"x": 102,
+			"y": 167,
+			"price": 1500,
+			"perUnit": true,
+			"_source": "npc/other/mercenary_rent.txt:288"
+		},
+		{
+			"itemId": 12242,
+			"npc": "Mercenary Merchant",
+			"map": "prontera",
+			"x": 30,
+			"y": 337,
+			"price": 1500,
+			"perUnit": true,
+			"_source": "npc/other/mercenary_rent.txt:288"
+		},
+		{
+			"itemId": 12243,
+			"npc": "Mercenary Merchant",
+			"map": "izlude",
+			"x": 56,
+			"y": 139,
+			"price": 3000,
+			"perUnit": true,
+			"_source": "npc/other/mercenary_rent.txt:288"
+		},
+		{
+			"itemId": 12243,
+			"npc": "Mercenary Merchant",
+			"map": "pay_arche",
+			"x": 102,
+			"y": 167,
+			"price": 3000,
+			"perUnit": true,
+			"_source": "npc/other/mercenary_rent.txt:288"
+		},
+		{
+			"itemId": 12243,
+			"npc": "Mercenary Merchant",
+			"map": "prontera",
+			"x": 30,
+			"y": 337,
+			"price": 3000,
+			"perUnit": true,
+			"_source": "npc/other/mercenary_rent.txt:288"
+		},
+		{
+			"itemId": 12414,
+			"npc": "Candy Maker",
+			"map": "brasilis",
+			"x": 187,
+			"y": 162,
+			"price": 4000,
+			"_source": "npc/quests/quests_brasilis.txt:440"
+		},
+		{
+			"itemId": 12548,
+			"npc": "Black Marketeer",
+			"map": "que_job01",
+			"x": 68,
+			"y": 84,
+			"price": 500,
+			"perUnit": true,
+			"_source": "npc/merchants/buying_shops.txt:73"
+		}
+	]
+}

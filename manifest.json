@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-08-24T08:02:04.796Z",
+  "builtAt": "2026-10-12T07:30:21.761Z",
   "rathena": {
     "sha": "7f080871c8b3bbe7a79027194633201c63422ee1",
     "ref": "master",
@@ -7,18 +7,20 @@
   },
   "bundles": {
     "rathena-pre-re": {
-      "description": "Stock rAthena pre-renewal, plus the recipes and quests the script parsers drop as orphans. No server-specific content.",
+      "description": "Stock rAthena pre-renewal, plus the recipes and quests the script parsers drop as orphans, and the NPCs that sell items through a script instead of a shop. No server-specific content.",
       "layers": [
         "rathena-classic"
       ],
       "sources": [
         "rathena-classic/headgear-quests.json",
         "rathena-classic/lvl4-weapon-quest.json",
-        "rathena-classic/rms-fixes.json"
+        "rathena-classic/rms-fixes.json",
+        "rathena-classic/scripted-shops.json",
+        "rathena-classic/treasure-castles.json"
       ],
       "path": "bundles/rathena-pre-re.json.gz",
-      "bytes": 4607811,
-      "gzBytes": 326892,
+      "bytes": 5336504,
+      "gzBytes": 367445,
       "counts": {
         "items": 6169,
         "itemsWithBonuses": 1717,
@@ -30,9 +32,25 @@
         "questsWithItemRefs": 387,
         "refineEntries": 14,
         "mobDrops": 5019,
+        "mobDropsWithCastle": 320,
         "shops": 184,
         "shopSales": 1379,
-        "warps": 2978
+        "scriptedSales": 118,
+        "warps": 2978,
+        "boxes": 37,
+        "boxContents": 3344,
+        "dropBonusSources": 62,
+        "itemsObtainedWith": 123
+      },
+      "mobs": {
+        "path": "bundles/rathena-pre-re.mobs.json.gz",
+        "bytes": 1026352,
+        "gzBytes": 101477,
+        "counts": {
+          "mobs": 1004,
+          "mobsWithSpawns": 510,
+          "mobsWithSkills": 703
+        }
       }
     },
     "cyro": {
@@ -45,11 +63,13 @@
         "rathena-classic/headgear-quests.json",
         "rathena-classic/lvl4-weapon-quest.json",
         "rathena-classic/rms-fixes.json",
+        "rathena-classic/scripted-shops.json",
+        "rathena-classic/treasure-castles.json",
         "cyro/hatmaker.json"
       ],
       "path": "bundles/cyro.json.gz",
-      "bytes": 4742360,
-      "gzBytes": 336031,
+      "bytes": 5470988,
+      "gzBytes": 376355,
       "counts": {
         "items": 6169,
         "itemsWithBonuses": 1717,
@@ -61,9 +81,25 @@
         "questsWithItemRefs": 387,
         "refineEntries": 14,
         "mobDrops": 5019,
+        "mobDropsWithCastle": 320,
         "shops": 184,
         "shopSales": 1379,
-        "warps": 2978
+        "scriptedSales": 118,
+        "warps": 2978,
+        "boxes": 37,
+        "boxContents": 3344,
+        "dropBonusSources": 62,
+        "itemsObtainedWith": 123
+      },
+      "mobs": {
+        "path": "bundles/cyro.mobs.json.gz",
+        "bytes": 1026342,
+        "gzBytes": 101471,
+        "counts": {
+          "mobs": 1004,
+          "mobsWithSpawns": 510,
+          "mobsWithSkills": 703
+        }
       }
     }
   }
